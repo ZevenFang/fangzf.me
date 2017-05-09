@@ -8,8 +8,6 @@ install:
 script:
   - hexo cl  #清除
   - hexo g  #生成
-  - cp README.md public/
-  - cp CNAME public/
 
 after_script:
   - cd ./public
