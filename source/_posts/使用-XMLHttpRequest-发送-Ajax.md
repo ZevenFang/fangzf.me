@@ -43,3 +43,18 @@ categories:
 })();
 </script>
 ```
+
+简易版本：
+```js
+function ajax(url, type, success, error) {
+    var http = new XMLHttpRequest();
+    http.onreadystatechange = function () {
+        if (http.readyState === XMLHttpRequest.DONE) {
+            if (http.status === 200) success && success(http.responseText);
+            else error && error();
+        }
+    };
+    http.open(type, url);
+    http.send();
+}
+```
