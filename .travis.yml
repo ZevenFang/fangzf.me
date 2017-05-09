@@ -11,6 +11,8 @@ script:
 
 after_script:
   - cd ./public
+  - cp CNAME ./public
+  - cp README.md ./public
   - git init
   - git config user.name "Zeven"  #修改name
   - git config user.email "zevenfang@users.noreply.github.com"  #修改email
