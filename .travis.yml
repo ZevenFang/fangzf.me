@@ -21,6 +21,7 @@ after_script:
 branches:
   only:
     - hexo  #只监测hexo分支，hexo是我的分支的名称，可根据自己情况设置
+
 env:
  global:
    - GH_REF: github.com/ZevenFang/zevenfang.github.io.git
