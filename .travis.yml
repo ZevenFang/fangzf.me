@@ -8,15 +8,15 @@ install:
 script:
   - hexo cl  #清除
   - hexo g  #生成
+  - cp README.md public/
+  - cp CNAME public/
 
 after_script:
   - cd ./public
-  - git init
-  - git config user.name "Zeven"  #修改name
-  - git config user.email "zevenfang@users.noreply.github.com"  #修改email
+  - git pull
   - git add .
   - git commit -m "update"
-  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master  #GH_TOKEN是在Travis中配置token的名称
+  - git push "https://${GH_TOKEN}@${GH_REF}" master:master  #GH_TOKEN是在Travis中配置token的名称
 
 env:
  global:
