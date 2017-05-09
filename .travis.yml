@@ -18,10 +18,6 @@ after_script:
   - git commit -m "update"
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master  #GH_TOKEN是在Travis中配置token的名称
 
-branches:
-  only:
-    - hexo  #只监测hexo分支，hexo是我的分支的名称，可根据自己情况设置
-
 env:
  global:
    - GH_REF: github.com/ZevenFang/zevenfang.github.io.git
