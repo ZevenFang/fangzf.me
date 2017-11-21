@@ -18,7 +18,7 @@ var proxy = httpProxy.createProxyServer({
   changeOrigin: true, // 改变来源为当前主机
   secure: false // 信任不安全的证书
 });
-proxy.on('error', function (err, req, res) { // 自定义错误
+proxy.on('error', function (err, req, res) { // 自定义代理报错信息
   res.writeHead(500, {
     'Content-Type': 'text/plain'
   });
