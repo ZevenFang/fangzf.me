@@ -345,6 +345,6 @@ async pay(params){ // params 为后端提供的参数
 4. 支付接口调用参考[调起支付接口](https://pay.weixin.qq.com/wiki/doc/api/app/app.php?chapter=9_12)和[统一下单](https://pay.weixin.qq.com/wiki/doc/api/app/app.php?chapter=9_1)，本篇将不做赘述。
 
 ## 参考文档
-https://pay.weixin.qq.com/wiki/doc/api/app/app.php?chapter=8_5 APP端开发步骤
-http://reactnative.cn/docs/0.50/native-modules-android.html Android调用原生模块
-http://reactnative.cn/docs/0.50/native-modules-ios.html iOS调用原生模块
+- [APP端开发步骤](https://pay.weixin.qq.com/wiki/doc/api/app/app.php?chapter=8_5)
+- [Android调用原生模块](http://reactnative.cn/docs/0.50/native-modules-android.html)
+- [iOS调用原生模块](http://reactnative.cn/docs/0.50/native-modules-ios.html)

@@ -232,7 +232,7 @@ async pay(params){ // params 为后端提供的参数
 后面会继续介绍 react-native 微信支付的集成，相比支付宝集成，微信支付集成会麻烦很多，比如处理回调、应用签名机制、注册scheme等都提高了集成的复杂度。
 
 ## 参考文档
-https://docs.open.alipay.com/204/105296/ App支付Android集成流程
-https://docs.open.alipay.com/204/105295/ App支付iOS集成流程
-http://reactnative.cn/docs/0.50/native-modules-android.html Android调用原生模块
-http://reactnative.cn/docs/0.50/native-modules-ios.html iOS调用原生模块
+- [App支付Android集成流程](https://docs.open.alipay.com/204/105296/)
+- [App支付iOS集成流程](https://docs.open.alipay.com/204/105295/)
+- [Android调用原生模块](http://reactnative.cn/docs/0.50/native-modules-android.html)
+- [iOS调用原生模块](http://reactnative.cn/docs/0.50/native-modules-ios.html)
