@@ -229,7 +229,7 @@ async pay(params){ // params 为后端提供的参数
 4. 支付接口调用参考[支付接口调用](https://docs.open.alipay.com/204/105296/#s3)和[支付请求参数说明](https://docs.open.alipay.com/204/105465/)，本篇将不做赘述。
 
 ### 后记
-后面会继续介绍 react-native 微信支付的集成，相比支付宝集成，微信支付集成会麻烦很多，比如处理回调、应用签名机制、注册scheme等都提高了集成的复杂度。
+后面会继续介绍 [react-native 微信支付的集成](http://fangzf.me/2017/12/11/react-native-%E9%9B%86%E6%88%90%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98/)，相比支付宝集成，微信支付集成会麻烦很多，比如处理回调、应用签名机制、注册scheme等都提高了集成的复杂度。
 
 ## 参考文档
 - [App支付Android集成流程](https://docs.open.alipay.com/204/105296/)
