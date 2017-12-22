@@ -2,11 +2,13 @@
 title: Nginx解决跨域请求
 date: 2017-07-05 13:52:11
 description: 在服务器端的nginx.conf中配置增加配置
+tags:
+- nginx
 categories:
 - Backend
 ---
 在服务器端的nginx.conf中配置增加配置
-```
+```sh
 http {
   ......
   add_header Access-Control-Allow-Origin *;
