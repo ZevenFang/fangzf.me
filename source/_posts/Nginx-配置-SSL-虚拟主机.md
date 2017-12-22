@@ -1,7 +1,7 @@
 ---
 title: Nginx 配置 SSL 虚拟主机
 date: 2017-12-22 14:07:45
-description: 直接上代码，server 配置如下，同时支持 http 和 https 访问。
+description: 直接上代码，server 配置如下，同时支持 http 和 https 访问，另外还可以使用如下配置实现 http 重定向到 https。
 tags:
 - nginx
 categories:
@@ -33,11 +33,11 @@ server {
     }
 }
 ```
-另外还可以使用如下配置实现`80`端口重定向到`443`
+另外还可以使用如下配置实现`http`重定向到`https`
 ```sh
 server {
 
-    listen       80;
+    listen       7000;
     server_name  your.server.name;
 
     #rewrite ^(.*) https://$server_name$1 permanent;
