@@ -50,8 +50,8 @@ server {
     server_name  your.server.name;
 
     ssl                  on; # 开启ssl 
-    ssl_certificate      /etc/pki/tls/certs/server.crt;
-    ssl_certificate_key  /etc/pki/tls/certs/server.key;
+    ssl_certificate      /etc/letsencrypt/live/your.server.name/fullchain.pem;
+    ssl_certificate_key  /etc/letsencrypt/live/your.server.name/privkey.pem;
     ssl_session_timeout  5m;
     ssl_protocols  SSLv2 SSLv3 TLSv1;
     ssl_ciphers  HIGH:!aNULL:!MD5;
