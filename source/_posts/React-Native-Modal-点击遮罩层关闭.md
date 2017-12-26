@@ -9,7 +9,7 @@ categories:
   - Front
 ---
 在开发 ReactNative 程序的时候，经常有这样的需求，弹出一个弹窗窗口，用户需要点击返回键或者点击遮罩层关闭弹窗，以下代码兼容 Android 和 iOS 平台
-```js
+```jsx
 const {width, height} = Dimensions.get('window');
 <Modal
     animationType={"slide"}

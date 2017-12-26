@@ -8,7 +8,7 @@ categories:
 - Backend
 ---
 在服务器端的nginx.conf中配置增加配置
-```sh
+```nginx
 http {
   ......
   add_header Access-Control-Allow-Origin *;

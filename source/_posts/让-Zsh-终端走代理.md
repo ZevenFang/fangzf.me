@@ -7,7 +7,7 @@ categories:
 ---
 在 ~/.zshrc 配置文件中添加下面一段，以后使用的时候输入 proxy 打开代理模式，关闭代理时输入 noproxy 即可。
 
-```shell
+```bash
 vim ~/.zshrc
 
 # where proxy

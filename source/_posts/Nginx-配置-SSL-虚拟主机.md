@@ -8,7 +8,7 @@ categories:
 - Backend
 ---
 直接上代码，server 配置如下，同时支持 http 和 https 访问：
-```sh
+```nginx
 server {
     listen       7000 default;     # 配置默认端口
     listen       443 ssl;          # 配置 ssl 端口
@@ -34,7 +34,7 @@ server {
 }
 ```
 另外还可以使用如下配置实现`http`重定向到`https`
-```sh
+```nginx
 server {
 
     listen       7000;

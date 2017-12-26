@@ -13,12 +13,12 @@ tags:
 
 1. Mac、Linux下打开Terminal，Windows下打开命令提示符（command prompt）
 2. 给你的repo创建一个全新的clone
-```sh
+```bash
 git clone --bare https://github.com/user/repo.git
 cd repo.git
 ```
 3. 复制粘贴脚本，并根据你的信息修改以下变量：旧的Email地址，正确的用户名，正确的邮件地址
-```sh
+```bash
 #!/bin/sh
 git filter-branch --env-filter '
 OLD_EMAIL="旧的Email地址"
@@ -39,11 +39,11 @@ fi
 4. 执行以上脚本
 5. 用git log命令看看新 Git 历史有没有错误
 6. 把正确历史 push 到 Github
-```sh
+```bash
 git push --force --tags origin 'refs/heads/*'
 ```
 7. 删掉刚刚临时创建的 clone
-```sh
+```bash
 cd ..
 rm -rf repo.git
 ```

@@ -8,7 +8,7 @@ categories:
 - Front
 ---
 html5是目前最新版的超文本标记语言，结合了javascript/css/html使得标签功能更加强大，下面介绍html5自定义表单提示：
-```html
+```jsx
 <form name="passwordChange">
     <p>
         <label for="password1">New Password:</label>

@@ -10,7 +10,7 @@ categories:
 这里介绍一种只使用 Meteor 自身的 build 命令，再加上 pm2 来部署 Meteor 应用的方法。不过最好你的本地开发电脑可以翻墙，这样安装 Meteor 和相关的 npm 包更顺畅。
 ### 配置服务器
 1. 安装 Node.js 稳定版，建议从源码编译安装
-```sh
+```bash
 wget https://nodejs.org/dist/v6.10.3/node-v6.10.3.tar.gz
 tar zxvf node-v6.10.3.tar.gz
 cd node-v6.10.3
@@ -23,16 +23,19 @@ node -v # 检查一下 nodejs 是否安装成功
 MongoDB 官方的源在中国太慢，一般需要大概 3 个小时完成下载，推荐使用清华大学的源，[详细步骤见这里](https://mirror.tuna.tsinghua.edu.cn/help/mongodb/)
 3. 安装 pm2
 跟安装其他 npm 包类似，需要全局安装：
-`npm install pm2 -g`
+```bash
+npm install pm2 -g
+```
 4. 代码文件夹
 创建存放 Meteor build 打包成 Node.js app 后的源代码文件夹：
-```sh
+```bash
 mkdir /home/meteor
 mkdir /home/meteor/build
 ```
+
 ### 本地打包 Meteor App
 假设你的 Meteor 源代码在你的本地开发电脑上一个叫 meteor-app 的文件夹里，我们在它的同级目录建立一个叫 build 的文件夹。然后运行
-```sh
+```bash
 cd meteor-app
 meteor build --architecture=os.linux.x86_64 ../build
 scp ../build/meteor-build-test.tar.gz root@your.server.ip.address:/home/meteor/build
@@ -41,12 +44,12 @@ scp ../build/meteor-build-test.tar.gz root@your.server.ip.address:/home/meteor/b
 
 ### 运行 Meteor App
 1. 在服务器上进入 /home/meteor/build，然后运行：
-```sh
+```bash
 tar xvf meteor-build-test.tar.gz # 解压
 cd bundle/programs/server && npm install # 安装依赖
 ```
 2. 回到 bundle 目录配置 pm.json
-```js
+```json
 cd bundle
 vim pm.json
 // 将以下代码写进 pm.json

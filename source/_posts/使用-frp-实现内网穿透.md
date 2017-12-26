@@ -33,16 +33,16 @@ dashboard_pwd = password # 控制台密码
 
 ### 客户端
 1. 配置 `frpc.ini` 文件
-```ini
-[common]
-server_addr = your.server.ip.address # 服务端公网 ip 地址
-server_port = 7000 # 与服务端配置的 bind_port 一致
+    ```ini
+    [common]
+    server_addr = your.server.ip.address # 服务端公网 ip 地址
+    server_port = 7000 # 与服务端配置的 bind_port 一致
 
-[web]
-type = http # 支持 http 和 https
-local_port = 80 # 本地映射端口
-custom_domains = your.server.name # 自定义域名，需要A解析到 server_addr
-```
+    [web]
+    type = http # 支持 http 和 https
+    local_port = 80 # 本地映射端口
+    custom_domains = your.server.name # 自定义域名，需要A解析到 server_addr
+    ```
 2. 运行 frp 客户端
 ```sh
 ./frpc -c ./frpc.ini

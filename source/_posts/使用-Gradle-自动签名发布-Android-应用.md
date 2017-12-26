@@ -8,7 +8,7 @@ description: Android要求所有应用都有一个数字签名才会被允许安
 Android要求所有应用都有一个数字签名才会被允许安装在用户手机上，所以在把应用发布到类似应用市场之前，你需要先生成一个签名的APK包。Android开发者官网上的[如何给你的应用签名](https://developer.android.com/tools/publishing/app-signing.html)文档描述了签名的细节。本指南旨在提供一个简化的签名和打包js的操作步骤，不会涉及太多理论。
 ### 生成一个签名密钥
 你可以用keytool命令生成一个私有密钥。在Windows上keytool命令放在JDK的bin目录中（比如C:\Program Files\Java\jdkx.x.x_x\bin），你可能需要在命令行中先进入那个目录才能执行此命令。
-```sh
+```bash
 keytool -genkey -v -keystore my-release-key.keystore -alias my-key-alias -keyalg RSA -keysize 2048 -validity 10000
 ```
 这条命令会要求你输入密钥库（keystore）和对应密钥的密码，然后设置一些发行相关的信息。最后它会生成一个叫做my-release-key.keystore的密钥库文件。
@@ -21,7 +21,7 @@ keytool -genkey -v -keystore my-release-key.keystore -alias my-key-alias -keyalg
 2. 编辑~/.gradle/gradle.properties（没有这个文件你就创建一个），添加如下的代码（注意把其中的****替换为相应密码）
 
 **注意：~表示用户目录，比如windows上可能是C:\Users\用户名，而mac上可能是/Users/用户名。**
-```js
+```properties
 MYAPP_RELEASE_STORE_FILE=my-release-key.keystore
 MYAPP_RELEASE_KEY_ALIAS=my-key-alias
 MYAPP_RELEASE_STORE_PASSWORD=*****
@@ -34,7 +34,7 @@ MYAPP_RELEASE_KEY_PASSWORD=*****
 提示：如果你不想以明文方式保存密码，同时你使用的是macOS系统，那么你也可以把密码保存到钥匙串（Keychain）中。这样一来你就可以省略掉上面配置中的后两行（即MYAPP_RELEASE_STORE_PASSWORD和MYAPP_RELEASE_KEY_PASSWORD）。
 ### 添加签名到项目的gradle配置文件
 编辑你项目目录下的`android/app/build.gradle`，添加如下的签名配置：
-```
+```java
 ...
 android {
     ...
@@ -58,7 +58,7 @@ android {
 ```
 ### 生成发行APK包
 在Android项目目录下，只需在终端中运行以下命令：
-```sh
+```bash
 ./gradlew assembleRelease
 ```
 注：./gradlew assembleRelease在macOS和Linux系统中表示执行当前目录下的名为gradlew的脚本文件，运行参数为assembleRelease，注意这个./不可省略；而在windows命令行下则需要去掉./。
@@ -66,7 +66,7 @@ android {
 生成的APK文件位于`app/build/outputs/apk/app-release.apk`，它已经可以用来发布了。
 ### 测试应用的发行版本
 在把发行版本提交到应用市场之前，你应该做一次最终测试。输入以下命令可以在设备上安装发行版本：
-```sh
+```bash
 ./gradlew installRelease
 ```
 注意`installRelease`参数只能在你完成了上面的签名配置之后才可以使用。

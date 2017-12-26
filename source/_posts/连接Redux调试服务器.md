@@ -9,8 +9,8 @@ categories:
   - Front
 ---
 
-1. 检查设备是否成功连接，运行adb devices
-2. 检查5678端口是否被占用
-3. 运行adb reverse tcp:5678 tcp:5678
-4. 摇晃设备，或者运行adb shell input keyevent 82，可以打开开发者菜单
-5. 点击Debug JS Remote即可连接Redux调试服务器
+1. 检查设备是否成功连接，运行`adb devices`
+2. 检查 5678 端口是否被占用
+3. 运行`adb reverse tcp:5678 tcp:5678`
+4. 摇晃设备，或者运行`adb shell input keyevent 82`，可以打开开发者菜单
+5. 点击`Debug JS Remote`即可连接Redux调试服务器

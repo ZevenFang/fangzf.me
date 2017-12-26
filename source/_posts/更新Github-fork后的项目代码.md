@@ -6,14 +6,14 @@ tags:
 - Github
 ---
 ### 1. 配置远程的upstream 地址
-```shell
+```bash
 git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
 ```
 ### 2. 对upstream的代码更新
-```shell
+```bash
 git fetch upstream
 ```
 ### 3. 进行代码合并
-```shell
+```bash
 git merge upstream/master
 ```

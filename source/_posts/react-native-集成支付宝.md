@@ -52,7 +52,7 @@ dependencies {
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 ```
 4. 在`android/app/proguard-rules.pro`添加混淆规则
-```js
+```java
 -keep class com.alipay.android.app.IAlixPay{*;}
 -keep class com.alipay.android.app.IAlixPay$Stub{*;}
 -keep class com.alipay.android.app.IRemoteServiceCallback{*;}
@@ -75,78 +75,78 @@ dependencies {
 ```
 5. 在`com.xx.xx`创建包名`alipay`
 6. 编写 Module，在`com.xx.xx.alipay`包下创建`AlipayModule.java`，代码如下：
-```java
-package com.xx.xx.alipay;
+  ```java
+  package com.xx.xx.alipay;
 
-import com.alipay.sdk.app.PayTask;
-import com.facebook.react.bridge.Arguments;
-import com.facebook.react.bridge.Promise;
-import com.facebook.react.bridge.ReactApplicationContext;
-import com.facebook.react.bridge.ReactContextBaseJavaModule;
-import com.facebook.react.bridge.ReactMethod;
-import com.facebook.react.bridge.WritableMap;
-import java.util.Map;
+  import com.alipay.sdk.app.PayTask;
+  import com.facebook.react.bridge.Arguments;
+  import com.facebook.react.bridge.Promise;
+  import com.facebook.react.bridge.ReactApplicationContext;
+  import com.facebook.react.bridge.ReactContextBaseJavaModule;
+  import com.facebook.react.bridge.ReactMethod;
+  import com.facebook.react.bridge.WritableMap;
+  import java.util.Map;
 
-public class AlipayModule extends ReactContextBaseJavaModule {
+  public class AlipayModule extends ReactContextBaseJavaModule {
 
-  public AlipayModule(ReactApplicationContext reactContext) {
-    super(reactContext);
+    public AlipayModule(ReactApplicationContext reactContext) {
+      super(reactContext);
+    }
+
+    @Override
+    public String getName() {
+      return "Alipay";
+    }
+
+    @ReactMethod
+    public void pay(final String orderInfo, final Promise promise) {
+      Runnable payRunnable = new Runnable() {
+        @Override
+        public void run() {
+          WritableMap map = Arguments.createMap();
+          PayTask alipay = new PayTask(getCurrentActivity());
+          Map<String, String> result = alipay.payV2(orderInfo,true);
+          for (Map.Entry<String, String> entry: result.entrySet())
+            map.putString(entry.getKey(), entry.getValue());
+          promise.resolve(map);
+        }
+      };
+      // 必须异步调用
+      Thread payThread = new Thread(payRunnable);
+      payThread.start();
+    }
+
   }
-
-  @Override
-  public String getName() {
-    return "Alipay";
-  }
-
-  @ReactMethod
-  public void pay(final String orderInfo, final Promise promise) {
-    Runnable payRunnable = new Runnable() {
-      @Override
-      public void run() {
-        WritableMap map = Arguments.createMap();
-        PayTask alipay = new PayTask(getCurrentActivity());
-        Map<String, String> result = alipay.payV2(orderInfo,true);
-        for (Map.Entry<String, String> entry: result.entrySet())
-          map.putString(entry.getKey(), entry.getValue());
-        promise.resolve(map);
-      }
-    };
-    // 必须异步调用
-    Thread payThread = new Thread(payRunnable);
-    payThread.start();
-  }
-
-}
-```
+  ```
 7. 编写 Package，在`com.xx.xx.alipay`包下创建`AlipayPackage.java`，代码如下：
-```java
-package com.xx.xx.alipay;
+  ```java
+  package com.xx.xx.alipay;
 
-import com.facebook.react.ReactPackage;
-import com.facebook.react.bridge.NativeModule;
-import com.facebook.react.bridge.ReactApplicationContext;
-import com.facebook.react.uimanager.ViewManager;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+  import com.facebook.react.ReactPackage;
+  import com.facebook.react.bridge.NativeModule;
+  import com.facebook.react.bridge.ReactApplicationContext;
+  import com.facebook.react.uimanager.ViewManager;
+  import java.util.ArrayList;
+  import java.util.Collections;
+  import java.util.List;
 
-public class AlipayPackage implements ReactPackage {
+  public class AlipayPackage implements ReactPackage {
 
-  @Override
-  public List<ViewManager> createViewManagers(ReactApplicationContext reactContext) {
-    return Collections.emptyList();
+    @Override
+    public List<ViewManager> createViewManagers(ReactApplicationContext reactContext) {
+      return Collections.emptyList();
+    }
+
+    @Override
+    public List<NativeModule> createNativeModules(
+            ReactApplicationContext reactContext) {
+      List<NativeModule> modules = new ArrayList<>();
+      modules.add(new AlipayModule(reactContext));
+      return modules;
+    }
+
   }
-
-  @Override
-  public List<NativeModule> createNativeModules(
-          ReactApplicationContext reactContext) {
-    List<NativeModule> modules = new ArrayList<>();
-    modules.add(new AlipayModule(reactContext));
-    return modules;
-  }
-
-}
-```
+  ```
 8. 最后在 Android 这边要做的最后一件事就是注册这个模块，在`com.xx.xx.MainApplication`中注册模块：
 ```java
 @Override
@@ -171,7 +171,7 @@ AlipaySDK.framework
 ![2017-12-05-16-24-34](http://p0gxdxnc4.bkt.clouddn.com/2017-12-05-16-24-34.png)
 4. 编写`AlipayModule.h`代码如下：
 
-  ```objc
+  ```objectivec
   #import <React/RCTBridgeModule.h>
   #import <React/RCTLog.h>
 
@@ -180,7 +180,7 @@ AlipaySDK.framework
   ```
 5. 编写`AlipayModule.m`代码如下：
   
-  ```objc
+  ```objectivec
   #import "AlipayMoudle.h"
   #import <AlipaySDK/AlipaySDK.h>
 

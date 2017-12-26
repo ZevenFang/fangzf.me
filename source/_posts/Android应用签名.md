@@ -6,14 +6,14 @@ tags: Android
 ---
 
 ### 生成密钥
-```
+```bash
 keytool -genkey -v -keystore app-release-key.keystore -alias app-release-key.keystore -keyalg RSA -keysize 2048 -validity 10000
 ```
 ### 签名apk
-```
+```bash
 jarsigner -verbose -sigalg SHA256withRSA -tsa https://timestamp.geotrust.com/tsa -digestalg SHA1 -keystore app-release-key.keystore app-release-unsigned.apk app-release-key.keystore
 ```
 ### 优化APK
-```
+```bash
 zipalign -v 4 app-release-unsigned.apk app-1.0.0.apk
 ```
