@@ -10,7 +10,7 @@ categories:
 直接上代码，server 配置如下，同时支持 http 和 https 访问：
 ```nginx
 server {
-    listen       7000 default;     # 配置默认端口
+    listen       80 default;     # 配置默认端口
     listen       443 ssl;          # 配置 ssl 端口
     server_name  your.server.name; # 配置解析域名
 
@@ -21,6 +21,10 @@ server {
     ssl_protocols  SSLv2 SSLv3 TLSv1; # 指定密码为openssl支持的格式 
     ssl_ciphers  HIGH:!aNULL:!MD5;    # 密码加密方式 
     ssl_prefer_server_ciphers   on;   # 依赖SSLv3和TLSv1协议的服务器密码将优先于客户端密码 
+
+    # if ($server_port != 443) { # 通过判断端口，强制访问https
+    #     rewrite (.*) https://$host$1 permanent;
+    # }
 
     location / {
         root   html/your.server.name; # 根目录的相对位置 
@@ -37,7 +41,7 @@ server {
 ```nginx
 server {
 
-    listen       7000;
+    listen       80;
     server_name  your.server.name;
 
     #rewrite ^(.*) https://$server_name$1 permanent;
