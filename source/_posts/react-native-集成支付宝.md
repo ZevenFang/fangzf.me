@@ -167,7 +167,7 @@ AlipaySDK.framework
 ![](https://gw.alipayobjects.com/os/skylark/public/files/3ebefcabdf8062f717dbb5d866ba7cfb)
   - 如果是Xcode 7.0之后的版本，需要添加libc++.tbd、libz.tbd；
   - 如果是Xcode 7.0之前的版本，需要添加libc++.dylib、libz.dylib。
-3. 在项目目录下创建Group `Alipay`，并创建`AlipayMoudle`模块，如下图所示：
+3. 在项目目录下创建Group `Alipay`，并创建`AlipayModule`模块，如下图所示：
 ![2017-12-05-16-24-34](http://p0gxdxnc4.bkt.clouddn.com/2017-12-05-16-24-34.png)
 4. 编写`AlipayModule.h`代码如下：
 
@@ -175,16 +175,16 @@ AlipaySDK.framework
   #import <React/RCTBridgeModule.h>
   #import <React/RCTLog.h>
 
-  @interface AlipayMoudle : NSObject <RCTBridgeModule>
+  @interface AlipayModule : NSObject <RCTBridgeModule>
   @end
   ```
 5. 编写`AlipayModule.m`代码如下：
   
   ```objectivec
-  #import "AlipayMoudle.h"
+  #import "AlipayModule.h"
   #import <AlipaySDK/AlipaySDK.h>
 
-  @implementation AlipayMoudle
+  @implementation AlipayModule
 
   RCT_EXPORT_METHOD(pay:(NSString *)orderInfo
     resolver:(RCTPromiseResolveBlock)resolve
