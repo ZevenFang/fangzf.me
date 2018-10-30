@@ -202,7 +202,7 @@ dependencies {
 ```
 3. 导入必要的库文件，如下图所示：
 ![2017-12-11-14-30-54](http://p0gxdxnc4.bkt.clouddn.com/2017-12-11-14-30-54.png)
-4. 在项目目录下创建Group `Wxapi`，并创建`WxpayMoudle`模块
+4. 在项目目录下创建Group `Wxapi`，并创建`WxpayModule`模块
 5. 下载开发工具包（[SDK](https://res.wx.qq.com/op_res/qNjut2h9J8oE9o2zeJTAYdCTgB7hM5pHAkJz1rNNCOnSyKA2bwzBv3fQILqbD_c1)），导入`Wxapi`中，最终如下图所示：
 ![2017-12-11-15-05-34](http://p0gxdxnc4.bkt.clouddn.com/2017-12-11-15-05-34.png)
 6. 编写`WxpayModule.h`代码如下：
@@ -212,14 +212,14 @@ dependencies {
   #import "WXApiObject.h"
   #import "WXApi.h"
 
-  @interface WxpayMoudle : NSObject <RCTBridgeModule, WXApiDelegate>
+  @interface WxpayModule : NSObject <RCTBridgeModule, WXApiDelegate>
   @end
   ```
 7. 编写`WxpayModule.m`代码如下：
   ```objectivec
-  #import "WxpayMoudle.h"
+  #import "WxpayModule.h"
 
-  @implementation WxpayMoudle
+  @implementation WxpayModule
 
   RCTPromiseResolveBlock resolveBlock = nil;
 
