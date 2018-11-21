@@ -11,7 +11,14 @@ tags: Android
 
 代码如下：
 ```html
-<div>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
     <div>输入base64字符串</div>
     <textarea id="base64text" rows="10" cols="40"></textarea>
     <div>输入文件名</div>
