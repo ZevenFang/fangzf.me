@@ -2,7 +2,7 @@
 title: Base64 转 文件下载
 date: 2018-11-21 20:38:00
 description: "将base64字符串转化为文件"
-tags: Android
+tags: 前端
 ---
 
 1. 将下面代码另存为html文件
