@@ -119,3 +119,4 @@ tags: 前端
 </body>
 </html>
 ```
+演示地址：[base64ToFile](http://fangzf.me/html/base64ToFile.html)
