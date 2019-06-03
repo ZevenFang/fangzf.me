@@ -1,4 +1,10 @@
-### shadowsocks
+---
+title: Shadowsocks Kcptun
+date: 2016-12-21 10:07:40
+description: "Install shadowsocks and kcptun"
+---
+
+### Shadowsocks
 
 wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
 chmod +x shadowsocks-all.sh
@@ -6,7 +12,7 @@ chmod +x shadowsocks-all.sh
 
 [shadowsocks-all.sh](https://raw.githubusercontent.com/ZevenFang/assets/8dc9f7a61536ebf0c93dbf04a78e0af4d86c489e/fangzf.me/files/shadowsocks-all.sh)
 
-### kcptun
+### Kcptun
 
 wget --no-check-certificate https://github.com/kuoruan/shell-scripts/raw/master/kcptun/kcptun.sh
 sh kcptun.sh
