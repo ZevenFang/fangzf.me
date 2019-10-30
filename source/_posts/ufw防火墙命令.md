@@ -40,3 +40,10 @@ ufw allow from 10.0.0.0/8
 ufw allow from 172.16.0.0/12
 ufw allow from 192.168.0.0/16
 ```
+
+### 其他
+* 关闭IPv6
+```sh
+vi /etc/default/ufw # IPV6=yes 改成 IPV6=no
+ufw reload # 重新加载配置
+```
