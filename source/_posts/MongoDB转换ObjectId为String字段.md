@@ -9,8 +9,8 @@ categories:
 ---
 新增一个id字段，将_id转换为String字段：
 ```js
-db.roomscates.find().forEach(doc => {
-    db.roomscates.update({_id: doc._id}, {
+db.collName.find().forEach(doc => {
+    db.collName.update({_id: doc._id}, {
         $set: {id: String(doc._id.str)} 
     })
 })
