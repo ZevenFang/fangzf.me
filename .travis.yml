@@ -28,4 +28,4 @@ branches:
 env:
  global:
    - GH_REF: github.com/ZevenFang/zevenfang.github.io.git
-   - CODING_REF: e.coding.net/zeven/zeven.coding.me.git
+   - CODING_REF: git.coding.net/zeven/zeven.coding.me.git
