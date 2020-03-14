@@ -2,7 +2,7 @@
 title: chromium-browser常用命令
 date: 2020-03-14 10:00:00
 description: "chromium-browser常用参数和解释"
-tags: Front
+tags: 前端
 ---
 
 ### 运行命令：
