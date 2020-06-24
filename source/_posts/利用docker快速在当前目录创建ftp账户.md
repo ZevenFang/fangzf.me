@@ -7,17 +7,20 @@ description: 使用docker-vsftpd镜像
 
 ### 创建FTP服务器
 ```bash
-export ftpuser=username
-export ftppass=password
+export ftpuser=username # FTP账户
+export ftppass=password # FTP密码
+export address=your.server.addr # FTP连接地址
 docker run -d --name vsftpd-$ftpuser \
     -p 20001:21 -p 30001-30010:30001-30010 \
     -v `pwd`:/home/vsftpd/$ftpuser  \
     -e PASV_MIN_PORT=30001 \
     -e PASV_MAX_PORT=30010 \
-    -e PASV_ADDRESS=your.server.addr \
+    -e PASV_ADDRESS=$address \
     -e PASV_ADDR_RESOLVE=YES \
     -e FTP_USER=$ftpuser \
     -e FTP_PASS=$ftppass \
+    -e FILE_OPEN_MODE=0777 \
+    -e LOCAL_UMASK=022 \
     --restart=always zevenfang/vsftpd
 ```
 
