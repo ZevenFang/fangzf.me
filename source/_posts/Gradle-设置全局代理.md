@@ -6,5 +6,5 @@ categories:
 ---
 
 ```ini
-org.gradle.jvmargs=-DsocksProxyHost=127.0.0.1 -DsocksProxyPort=7077  
+org.gradle.jvmargs=-DsocksProxyHost=127.0.0.1 -DsocksProxyPort=1080 #socks5设置
 ```
