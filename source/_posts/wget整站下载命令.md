@@ -4,5 +4,5 @@ date: 2020-03-19 17:40:00
 ---
 
 ```sh
-wget -c -r -np -k -L -p http://example.com
+wget -r -p -np -k http://example.com
 ```
