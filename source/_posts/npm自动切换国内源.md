@@ -7,5 +7,6 @@ categories:
 - Front
 ---
 ```sh
+npm --registry https://registry.npm.taobao.org i your-pack
 npm install -g mirror-config-china
 ```
