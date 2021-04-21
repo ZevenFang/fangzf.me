@@ -12,7 +12,7 @@ docker run --name demo-system -dp 8080:8080 --restart always -v `pwd`:/usr/jars 
 ```sh
 # --net=host，在多台主机部署，spring gateway 才能访问
 function djar {
-    docker run --net=host --name $1_$2 -dp $2:$2 -e PORT=$2 --restart always -v `pwd`:/usr/jars openjdk:8 java -Xmx500m -jar /usr/jars/$1
+    docker run --net=host --name $1_$2 -d -e PORT=$2 --restart always -v `pwd`:/usr/jars openjdk:8 java -Xmx500m -jar /usr/jars/$1
 }
 # 调用函数
 djar demo-system.jar 8080
