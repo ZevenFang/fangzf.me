@@ -4,7 +4,7 @@ date: 2021-03-20 16:30:24
 tags:
 ---
 
-```sh
+```bash
 # 一次性代理
 git clone -c http.proxy="http://127.0.0.1:1087" https://github.com/
 # 全局设置代理

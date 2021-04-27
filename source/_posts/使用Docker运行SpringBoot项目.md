@@ -4,12 +4,12 @@ date: 2021-04-14 17:52:09
 tags:
 ---
 ### 基本命令
-```sh
+```bash
 docker run --name demo-system -dp 8080:8080 --restart always -v `pwd`:/usr/jars openjdk:8 java -jar /usr/jars/demo-system.jar
 docker run --name demo-system -dp 8080:8080 --restart always -v `pwd`:/usr/jars openjdk:8 java -Xmx1g -jar /usr/jars/demo-system.jar # 限制内存占用1G
 ```
 ### 定义函数命令
-```sh
+```bash
 # --net=host，在多台主机部署，spring gateway 才能访问
 function djar {
     docker run --net=host --name $1_$2 -d -e PORT=$2 --restart always -v `pwd`:/usr/jars openjdk:8 java -Xmx500m -jar -Duser.timezone=Asia/Shanghai /usr/jars/$1

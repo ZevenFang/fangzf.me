@@ -4,7 +4,7 @@ date: 2021-02-27 09:33:57
 tags:
 ---
 
-```sh
+```bash
 # 修改npm参数
 npm install --python=python2.7 # 使用--python选项
 npm config set python python2.7 # 设置为默认使用

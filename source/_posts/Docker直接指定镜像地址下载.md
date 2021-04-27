@@ -5,7 +5,7 @@ categories:
 - Docker
 ---
 
-```
+```bash
 docker pull docker.mirrors.ustc.edu.cn/library/ubuntu
 docker tag docker.mirrors.ustc.edu.cn/library/ubuntu ubuntu
 ```
