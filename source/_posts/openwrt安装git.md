@@ -14,8 +14,4 @@ opkg install git-http
 opkg install ca-bundle
 # 安装SSH
 opkg install openssh-client openssh-keygen openssh-sftp-server
-mv /usr/bin/ssh /usr/bin/dropbear-ssh
-mv /usr/bin/scp /usr/bin/dropbear-scp
-ln -s /usr/bin/ssh /usr/bin/openssh-ssh
-ln -s /usr/bin/scp /usr/bin/openssh-scp
 ```
