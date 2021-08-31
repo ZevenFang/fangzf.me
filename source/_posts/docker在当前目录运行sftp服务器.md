@@ -9,6 +9,7 @@ categories:
 ```bash
 docker run --name my_sftp -v `pwd`:/home/foo -dp 2222:22 --restart always atmoz/sftp foo:pass:1001
 ```
+
 ### 连接FTP服务器
 创建成功后，通过以下账户即可访问SFTP：
 ```ini
