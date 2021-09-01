@@ -7,6 +7,7 @@ tags:
 categories:
 - Backend
 ---
+
 部署前端到oss上,既方便通过oss的sdk发布版本，又大大提高访问速度，减少服务器带宽压力
 ### nginx.conf 配置
 ```conf
