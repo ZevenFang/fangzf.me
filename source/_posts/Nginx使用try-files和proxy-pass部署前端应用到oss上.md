@@ -40,6 +40,5 @@ http {
 ### 运行服务
 使用docker运行
 ```bash
-docker run --restart always --name your-app-name -v `pwd`/nginx.conf:/etc/ngg
-inx/nginx.conf:ro -dp 3000:80 nginx
+docker run --restart always --name your-app-name -v `pwd`/nginx.conf:/etc/nginx/nginx.conf:ro -dp 3000:80 nginx
 ```
