@@ -6,8 +6,6 @@
     "version": "3.9.0"
   },
   "scripts": {
-    "build": "hexo generate && gulp",
-    "eslint": "eslint .",
     "deploy": "hexo deploy"
   },
   "dependencies": {
