@@ -5,6 +5,11 @@
   "hexo": {
     "version": "3.9.0"
   },
+  "scripts": {
+    "build": "hexo generate && gulp",
+    "eslint": "eslint .",
+    "deploy": "hexo deploy"
+  },
   "dependencies": {
     "hexo": "^3.9.0",
     "hexo-generator-archive": "^0.1.4",
