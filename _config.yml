@@ -69,8 +69,10 @@ theme: yelee
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ZevenFang/zevenfang.github.io.git
+  repo: git@github.com:ZevenFang/zevenfang.github.io.git
   branch: master
+  name: ZevenFang
+  email: fangfan1997@126.com
 
 prism_plugin:
   mode: 'preprocess'    # realtime/preprocess
