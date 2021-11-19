@@ -2,6 +2,11 @@
 title: JeecgBoot下拉搜索框异步加载数据
 date: 2021-11-16 17:48:11
 description: JeecgBoot当数据量非常大的时候，下拉搜索框会一次性带出所有数据，导致前端页面卡死，解决办法如下
+categories:
+- Backend
+tags:
+- SpringBoot
+- JeecgBoot
 ---
 
 JeecgBoot当数据量非常大的时候，下拉搜索框会一次性带出所有数据，导致前端页面卡死，解决办法如下：
