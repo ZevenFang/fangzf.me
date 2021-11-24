@@ -1,7 +1,10 @@
 ---
 title: Linux使用命令清理硬盘空间
 date: 2021-04-29 15:15:51
+categories:
+- Linux
 tags:
+- Linux
 ---
 ```bash
 # 列出文件或文件夹占用空间大小
