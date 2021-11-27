@@ -5,6 +5,7 @@ categories:
 - Backend
 tags:
 - SpringBoot
+- SpringCloud
 ---
 ```bash
 mvn install -am -P prod -pl your-sub-module
