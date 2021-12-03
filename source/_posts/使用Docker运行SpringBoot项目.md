@@ -1,7 +1,12 @@
 ---
 title: 使用Docker运行SpringBoot项目
 date: 2021-04-14 17:52:09
+categories:
+- Docker
 tags:
+- docker
+- SpringBoot
+- SpringCloud
 ---
 ### 基本命令
 ```bash
