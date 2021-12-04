@@ -1,7 +1,10 @@
 ---
 title: git clone 设置临时代理
 date: 2021-03-20 16:30:24
+categories:
+- Git
 tags:
+- git
 ---
 
 ```bash
