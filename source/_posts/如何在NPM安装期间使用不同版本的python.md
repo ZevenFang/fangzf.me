@@ -1,7 +1,11 @@
 ---
 title: 如何在NPM安装期间使用不同版本的python
 date: 2021-02-27 09:33:57
+categories:
+- Front
 tags:
+- npm
+- python
 ---
 
 ```bash
