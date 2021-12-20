@@ -9,7 +9,11 @@ tags:
 ---
 
 ```php
+# 强制开启HTTPS
 $_SERVER['HTTPS'] = 'on';
 define('FORCE_SSL_LOGIN', true);
 define('FORCE_SSL_ADMIN', true);
+# 设置网站地址
+define('WP_HOME','https://www.yoursite.com');
+define('WP_SITEURL','https://www.yoursite.com');
 ```
