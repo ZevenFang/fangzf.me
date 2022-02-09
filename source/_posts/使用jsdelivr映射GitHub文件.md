@@ -2,7 +2,7 @@
 title: 使用jsdelivr映射GitHub文件
 date: 2022-02-08 10:10:55
 tags: Github
-categories: git
+categories: Git
 ---
 
 `raw.githubusercontent.com`国内访问非常慢，可以使用，`cdn.jsdelivr.net`做代理映射，如下链接：
