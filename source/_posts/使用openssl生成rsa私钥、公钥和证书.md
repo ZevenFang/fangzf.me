@@ -2,6 +2,7 @@
 title: 使用openssl生成rsa私钥、公钥和证书
 date: 2020-04-21 10:50:00
 description: "三步走：产生私钥，产生公钥，生成证书"
+categories: Linux
 tags: Linux
 ---
 
