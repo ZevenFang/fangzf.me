@@ -21,9 +21,9 @@ categories:
 ```sql
 create trigger triggerName
   after/before insert/update/delete on <表名>
-  for each row #这句话是固定的
+  for each row -- 这句话是固定的
 begin
-  <sql语句>;  #一句或多句,insert/update/delete范围内
+  <sql语句>;  -- 一句或多句,insert/update/delete范围内
 end;
 ```
 删除触发器的语法:
