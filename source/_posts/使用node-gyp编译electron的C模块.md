@@ -11,4 +11,5 @@ tags:
 ```bash
 node-gyp rebuild --target=25.9.7 --arch=ia32 --dist-url=https://electronjs.org/headers
 ```
+
 `target`换成对应的Electron版本
