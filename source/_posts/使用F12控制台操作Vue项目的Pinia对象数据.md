@@ -11,7 +11,7 @@ tags:
 ```js
 function findOrg(name) {
     var app = document.getElementById("app")
-    return app.__vue_app__._instance.appContext.config.globalProperties.$pinia._s
+    return app.__vue_app__._context.config.globalProperties.$pinia._s
         .get('org').$state.orgList.list.map(
             (v, k) => ({index: k+1, id: v.id, name: v.organization_name})
         ).filter(v => v.name.indexOf(name) >= 0).map(v => v.index)
