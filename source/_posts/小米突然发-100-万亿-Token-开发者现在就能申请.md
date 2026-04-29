@@ -1,6 +1,7 @@
 ---
 title: 小米突然发 100 万亿 Token：开发者现在就能申请
 date: 2026-04-29 10:10:09
+description: "小米 MiMo Orbit 百万亿 Token 创造者激励计划开放申请，30 天内免费发放总计 100 万亿 Token 权益，适合 AI Agent、Coding 工具链和自动化工作流开发者关注。"
 categories:
 - AI
 tags:
