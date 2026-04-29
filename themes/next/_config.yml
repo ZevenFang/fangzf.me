@@ -584,9 +584,9 @@ giscus:
   enable: true
   repo: ZevenFang/fangzf.me
   repo_id: MDEwOlJlcG9zaXRvcnk5MDcxMjkxNg==
-  # Optional: set both values after enabling GitHub Discussions if you want to limit lookup to one category.
-  category:
-  category_id:
+  # Use the default GitHub Discussions category for Giscus comment threads.
+  category: General
+  category_id: DIC_kwDOBWgrVM4C772e
   mapping: pathname
   strict: 0
   reactions_enabled: 1
