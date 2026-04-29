@@ -566,7 +566,7 @@ comments:
   style: tabs
   # Choose a comment system to be displayed by default.
   # Available values: changyan | disqus | disqusjs | gitalk | livere | valine
-  active:
+  active: giscus
   # Setting `true` means remembering the comment system selected by the visitor.
   storage: true
   # Lazyload all comment systems.
@@ -578,6 +578,23 @@ comments:
     #  order: -1
     #gitalk:
     #  order: -2
+
+# Giscus
+giscus:
+  enable: true
+  repo: ZevenFang/fangzf.me
+  repo_id: MDEwOlJlcG9zaXRvcnk5MDcxMjkxNg==
+  # Optional: set both values after enabling GitHub Discussions if you want to limit lookup to one category.
+  category:
+  category_id:
+  mapping: pathname
+  strict: 0
+  reactions_enabled: 1
+  emit_metadata: 0
+  input_position: bottom
+  theme: preferred_color_scheme
+  lang: zh-CN
+  loading: lazy
 
 # Disqus
 disqus:
@@ -628,7 +645,7 @@ valine:
 
 # LiveRe comments system
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC8yODMxNC80ODg2 # <your_uid>
+livere_uid: # <your_uid>
 
 # Gitalk
 # For more information: https://gitalk.github.io, https://github.com/gitalk/gitalk
