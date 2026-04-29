@@ -1,0 +1,66 @@
+---
+title: "解放双手！用自然语言指挥手机自动干活：开源智能体框架 Open-AutoGLM"
+date: 2026-03-21 10:00:00
+categories: [AI, 公众号]
+tags: [AI, 公众号同步]
+description: "还在手动点点点？这个开源项目能让你的手机“听懂人话”，自动完成微信发消息、刷短视频等重复操作，堪称懒人福音！"
+cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVQcL7ibzkibe0aFkmUfC0ZYKClMdvzaYvgCzUtTK5ftR7Z9vofiavG1ibOglw5ApIicVMJn1H2Aib47S41U5DHQsmEnicQ0iaeZqckEblc/0?wx_fmt=jpeg"
+wechat_link: "https://mp.weixin.qq.com/s/EaPFWu5tTwHxe8uHfL9y8g"
+wechat_aid: "2247483781_1"
+---
+
+> 原公众号链接：[解放双手！用自然语言指挥手机自动干活：开源智能体框架 Open-AutoGLM](https://mp.weixin.qq.com/s/EaPFWu5tTwHxe8uHfL9y8g)
+
+内容摘要
+
+还在手动点点点？这个开源项目能让你的手机“听懂人话”，自动完成微信发消息、刷短视频等重复操作，堪称懒人福音！
+
+## 🌟 导语：让手机听懂指令的智能管家
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVTf3UkNep4VAXxugMMRyhITHqM0kQRbRUcm6zia52c9bWfqmeFbdAUSgVe1cbFBg4k2TZhicTwewrvJA96HzPr9qdvibg7J7MNoyc/640?from=appmsg)
+
+厌倦了在手机上重复那些繁琐的点击、滑动操作？想不想直接告诉手机“帮我给张三发条微信”，它就自动搞定一切？今天推荐的开源项目 Open-AutoGLM，正是这样一个能让手机“听懂人话”并自动执行的智能体框架。它通过AI“看”懂屏幕，模拟人类操作，非常适合想要自动化手机任务、研究智能体技术或打造个人效率工具的开发者与极客们。
+
+## 🌟 核心原理：像人一样“看”和“点”
+
+Open-AutoGLM 的核心工作原理非常直观，就像一个不知疲倦的“数字员工”：它先捕获手机屏幕截图，然后利用多模态视觉语言模型理解当前界面内容和用户指令，接着计算出需要点击或滑动的坐标，最后通过 ADB（Android调试桥）发送指令执行操作。这个过程循环往复，直到完成用户交代的复杂任务链。
+
+## 项目亮点与功能速览 ✨
+
+- 🤖 完全开源透明：代码托管于GitHub，可自由查阅、修改与分发。
+
+- 🌐 支持中英文：理解和响应中英文自然语言指令。
+
+- 📱 兼容主流应用：针对微信等常用App进行了适配与优化。
+
+- 🐍 低门槛API：提供简洁的Python接口，快速集成与开发。
+
+- 🔄 自动化工作流：可串联多个操作，完成跨应用的复杂任务。
+
+## 🌟 如何快速上手？
+
+对于想要尝鲜的朋友，上手步骤很简单：1. 准备一台开启USB调试的安卓手机或模拟器，并连接电脑；2. 从GitHub克隆项目仓库到本地；3. 按照文档安装依赖（主要是Python环境和相关库）；4. 运行提供的示例脚本，体验“语音控制”手机的魅力。整个过程对有一定编程基础的用户来说非常友好。
+
+## 🌟 适用场景与想象空间
+
+- 🧪 自动化测试：模拟真实用户操作，进行App功能与压力测试。
+
+- ⏰ 个人任务自动化：自动完成每日签到、信息收集、消息发送等重复劳动。
+
+- 🔬 技术研究：作为多模态AI、智能体（Agent）技术的实践与实验平台。
+
+- 🎮 趣味应用：自动刷短视频、玩游戏、整理手机文件等。
+
+## 🌟 立即行动：Star、试用与交流
+
+项目仓库地址已在 GitHub 开源，搜索“zai-org/Open-AutoGLM”即可找到。建议大家先点个Star🌟收藏起来，然后按照文档快速部署一个Demo体验一下。如果你成功用它实现了某个有趣的功能，或者在使用中遇到了问题，非常欢迎在评论区分享交流你的经验！
+
+## 🌟 总结与行动建议
+
+如果这篇内容对你有帮助，建议先收藏，再结合你的场景拆成下一步执行清单。
+
+---
+
+更多内容欢迎关注公众号：
+
+![公众号关注二维码](https://zmgo.oss-cn-shenzhen.aliyuncs.com/logo/qrcode_for_gh_de689d92e7f2_258.jpg)

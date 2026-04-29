@@ -1,0 +1,74 @@
+---
+title: "🤖 让 AI 掌控你的浏览器：bb-browser 将 Chrome 变成 AI 代理的操作台"
+date: 2026-04-06 12:00:00
+categories: [AI, 公众号]
+tags: [AI, 公众号同步]
+description: "还在为 AI 无法操作登录状态的网页而烦恼？bb-browser 提供了一个 CLI 工具和 MCP 服务器，让你的 AI 助手能直接控制 Chrome，无缝访问需要登录的网站。"
+cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVQSXErWwicKic5Sibw13OVA5ge1ZhdVjNF7sekUZbHmLHiajSlGMljRtwmeExBXe9Z87VD46cpUef7Efkq2iaF1vpyjn1n3Vys2hYeQ/0?wx_fmt=jpeg"
+wechat_link: "https://mp.weixin.qq.com/s/R40S6siwWz4F5-65YIME-A"
+wechat_aid: "2247483895_1"
+---
+
+> 原公众号链接：[🤖 让 AI 掌控你的浏览器：bb-browser 将 Chrome 变成 AI 代理的操作台](https://mp.weixin.qq.com/s/R40S6siwWz4F5-65YIME-A)
+
+内容摘要
+
+还在为 AI 无法操作登录状态的网页而烦恼？bb-browser 提供了一个 CLI 工具和 MCP 服务器，让你的 AI 助手能直接控制 Chrome，无缝访问需要登录的网站。
+
+## 🌟 导语：当 AI 需要操作“已登录”的网页
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVQSDBibeTvroXNAERiaVscD5XNINHN2Jp6Hb09WEHOFBiabgmKloSIDJpcrBaXWjsdeBAEEeAmgMwKoFZgVKv94j0rJqMDwPjkm08/640?from=appmsg)
+
+你是否遇到过这样的场景：想让 AI 助手帮你查询邮件、管理社交媒体，或者自动化处理一些网页任务，却因为登录状态问题而受阻？传统的自动化工具往往难以处理复杂的登录和会话保持。
+
+## 🧰 bb-browser 是什么？为谁而生？
+
+![](https://mmbiz.qpic.cn/mmbiz_png/81QgEribibGVRJrltB12d76AfEqujd4SLtA81KKibDCtzhCUGJVVhw2zgvpdq55ibKznctYHHia5xKAXLyiaQ3GopnXBicevdxztwic7XXlTMicf3ib38/640?from=appmsg)
+
+现在，一个名为 bb-browser 的开源项目巧妙地解决了这个问题。它的核心理念是“你的浏览器就是 API”。通过提供一个命令行界面（CLI）和模型上下文协议（MCP）服务器，bb-browser 允许 AI 智能体直接控制一个真实的 Chrome 浏览器实例，并且这个浏览器可以携带你预先登录的会话状态。这意味着 AI 可以像真人一样操作那些需要认证的网页应用。
+
+bb-browser 的设计非常轻巧，主要面向开发者和 AI 应用构建者。如果你正在开发基于大语言模型（LLM）的智能体，并希望为其赋予操作真实网页的能力，那么这个工具就是为你准备的。它降低了为 AI 集成网页交互能力的门槛。
+
+## 🚀 上手简单，功能直接
+
+bb-browser 的使用门槛并不高。项目基于 Node.js（18+）开发，可以通过 npm 全局安装。安装完成后，通过简单的命令即可启动一个携带 MCP 服务器的 Chrome 实例。之后，你的 AI 应用（如 Claude Desktop、支持 MCP 的其他 AI 工具）就可以通过标准的 MCP 协议与这个浏览器进行通信，发送诸如导航到某个页面、点击元素、填写表单等指令。
+
+## 💎 核心亮点与功能
+
+- ●🚀 即插即用：作为 MCP 服务器，可以轻松接入支持该协议的 AI 平台。
+
+- ●🔐 状态保持：浏览器会话持久化，AI 操作可以延续用户的登录状态。
+
+- ●🛠️ 指令丰富：提供基本的浏览器自动化操作指令集，满足常见交互需求。
+
+- ●📦 部署灵活：既可以在本地开发调试，也可以部署在服务器上供远程调用。
+
+## 🔭 适用场景与使用建议
+
+bb-browser 非常适合用于构建需要与网页进行复杂交互的 AI 助手或自动化工作流。例如：
+
+- ●个人效率助手：让 AI 帮你每天自动查看日程、汇总新闻、发布内容。
+
+- ●数据抓取与监控：对需要登录后才能访问的数据进行定期抓取和分析。
+
+- ●自动化测试：为你的 Web 应用创建更贴近真实用户行为的 AI 驱动测试。
+
+- ●业务流程自动化：处理那些涉及多个需要登录的网站的内部流程。
+
+建议在可控的环境下初步试用，例如从操作个人邮箱或社交媒体测试账号开始。由于项目涉及浏览器自动化，请务必注意账户安全和遵守目标网站的服务条款。
+
+## 💡 立即行动：探索 AI 的网页操作能力
+
+总的来说，bb-browser 是一个构思巧妙、填补空白的工具。它将强大的浏览器自动化能力通过 MCP 协议标准化，大大简化了 AI 与真实网页世界交互的复杂度。对于想要探索 AI 智能体在 Web 环境应用的开发者来说，这是一个非常值得关注的起点。
+
+项目已在 GitHub 开源，你可以访问仓库地址获取详细文档和源码：https://github.com/epiral/bb-browser。不妨现在就点个 Star 收藏起来，然后按照 README 的指引，快速启动你的第一个“浏览器AI代理”吧！如果你已经试用过，欢迎在评论区分享你的使用体验和创意想法。
+
+## 💎 总结与行动建议
+
+如果这篇内容对你有帮助，建议先收藏，再结合你的场景拆成下一步执行清单。
+
+---
+
+更多内容欢迎关注公众号：
+
+![公众号关注二维码](https://zmgo.oss-cn-shenzhen.aliyuncs.com/logo/qrcode_for_gh_de689d92e7f2_258.jpg)
