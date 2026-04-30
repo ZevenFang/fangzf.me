@@ -4,7 +4,7 @@ date: 2026-03-24 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "你是否厌倦了手动执行重复的网页操作？Browser Use CLI 是一个专为高效、持久的浏览器自动化设计的命令行工具。本文将带你从零开始，了解其核心架构，掌握安装、配置与基础自动化流程，助你显著提升工作效率。"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVRy1FmQnTAbrt9qrCnmGibsG5bRr3D83Zr2rd5MibbL6icSwWfExGT3rXicIR3D234EKpT3AO5lBMJtzd96DEvosDKnBiaenVHlDib2E/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/告别重复操作用-Browser-Use-CLI-实现毫秒级浏览器自动化/50b7c87467662f25.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/rrBcxGR7prjXM9kU3Fdjrg"
 wechat_aid: "2247483818_1"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483818_1"
 
 本文面向希望提升浏览器自动化效率的技术人员。通过阅读，你将了解 Browser Use CLI 的核心优势，掌握其安装配置方法，并能编写简单的自动化脚本。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVQFcQicoW9FCZnicVC0VNQahzZBvTZypamSBRjE1WXrhaLUn0OWFf8tPeYwb5MiaC0JmfAKAGgcgc0CAwM0fA4VOpqas9hkZWpotU/640?wx_fmt=jpeg)
+![](/images/wechat-sync/告别重复操作用-Browser-Use-CLI-实现毫秒级浏览器自动化/e19dd7f89f5a9269.jpg)
 
 ## 🔧 前置条件与环境准备
 

@@ -4,7 +4,7 @@ date: 2026-03-21 18:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为 AI Agent 的混乱记忆和昂贵 Token 成本头疼？开源项目 OpenViking 提供了一套文件系统范式的解决方案，让 Agent 的长期运行更智能、更经济。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVS49hQUB1BKl3TXCmbUJ8h42UjgWUxlgBZKvPAgtGLLLHMicgIP9JBGqxRHzR4XYgxmaUniaUOr1hHMkuvSLhph4GmTT25vq3sjk/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/告别上下文碎片化OpenViking-为-AI-Agent-打造的统一记忆数据库/841c4af6b69f5ba4.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/SAmnmT--oy9Z1AsTHsao4A"
 wechat_aid: "2247483791_1"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483791_1"
 
 ## 🔍 它是什么？适合谁用？
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVRdCX29LlMpMHkeojHgqxB4lnMdzwOfBJiabdamGic3iaGvMXSJgLZ1wWDb5kiaffPqz1d1zogqDlTm5w6KsOxHibGCUWpghHiaCVpia4/640?from=appmsg&wx_fmt=jpeg)
+![](/images/wechat-sync/告别上下文碎片化OpenViking-为-AI-Agent-打造的统一记忆数据库/be5ed5fddb125615.jpg)
 
 今天要推荐的开源项目 OpenViking，正是为解决这些痛点而生。它是一个专为 AI Agent 设计的开源上下文数据库。简单来说，它为 AI Agent 构建了一个统一、持久且高效的“记忆中枢”。无论是需要处理长期对话的聊天助手，还是依赖精准信息检索（RAG）的复杂任务型 Agent，亦或是追求低成本、高可控性的 AI 应用开发者，OpenViking 都值得你重点关注。
 

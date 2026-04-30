@@ -4,7 +4,7 @@ date: 2026-03-18 15:44:02
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "本文详细介绍了腾讯QClaw的安装与配置过程，帮助普通用户和技术开发者无需编码即可通过微信远程控制本地电脑，实现文件操作、数据处理及自动化任务。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVSn7GbYDHBos2mX7xYlhVW4hw3RHP1qQNy4YicxPiaf36ib5D2kkBquHhpCGO69hgjAafESkK5EKv9qiaCI5Pc1FB3VbZjEoQTfwu8/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/🤖-腾讯QClaw微信远程操控电脑的AI助手本地部署指南/0d8d13ef47a2f090.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/AOqFu2v2tq3Lye3WNfXdDA"
 wechat_aid: "2247483707_1"
 ---
@@ -17,7 +17,7 @@ wechat_aid: "2247483707_1"
 
 本文适用于希望提升远程办公效率的普通用户、需要自动化处理日常任务的技术爱好者，以及对AI智能助手本地部署感兴趣的开发者。阅读后，您将能够独立完成QClaw的下载、安装、配置及基础使用，并了解其核心功能与扩展潜力。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVQVBdaa9Y441WmSzfUdPw8Y2IsAdicHRw9gOlgH2WYcfp4mR3y6vWict9zQKn7sxOmRVzBjN0ZFzPs1xqLwiax0iaGZ6Nl5iakzfsK4/640?from=appmsg)
+![](/images/wechat-sync/🤖-腾讯QClaw微信远程操控电脑的AI助手本地部署指南/d12965caffe0346a.webp)
 
 ### 🛠️ 前置条件
 

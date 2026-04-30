@@ -4,7 +4,7 @@ date: 2026-03-20 16:48:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "TrendRadar 是一个开源智能新闻聚合与趋势分析工具，它能从 35+ 个平台自动采集数据，通过 NLP 与时间序列分析帮你发现真正重要的趋势信号。本文将手把手教你如何部署和使用它。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVTlCAKeBg4pAW3cpx5146gTFPsE6oTZt7JNfqsFT75KwsTN4eRCIia58MB9hovwpGacxQHc0qkibjc8B0777HWgfxXtFkkCODSibg/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/TrendRadar用-AI-追踪全网热点,告别信息过载/2d4067236f55f4c3.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/0coy3Yp9mpREZjjPiXpVJg"
 wechat_aid: "2247483771_2"
 ---
@@ -17,7 +17,7 @@ TrendRadar 是一个开源智能新闻聚合与趋势分析工具，它能从 35
 
 本文适合对信息聚合、趋势分析或开源 AI 工具感兴趣的开发者、数据分析师和内容运营人员。阅读后，你将能够独立完成 TrendRadar 的部署，并利用其核心功能进行热点追踪与情感分析。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVSkAvqCibBPnSic9f4PGLsszZyd7iar8R44DHHBLjGZK25s9zUuJblfiaU3LqANPsM3oNk1nSiaEGu3RaGzybJKulx4CWawlqA59xCk/640?from=appmsg)
+![](/images/wechat-sync/TrendRadar用-AI-追踪全网热点,告别信息过载/29c2fbf7625daaad.webp)
 
 ## 🛠️ 前置条件与环境要求
 
@@ -31,7 +31,9 @@ TrendRadar 是一个开源智能新闻聚合与趋势分析工具，它能从 35
 
 ## 🛠️ 步骤一：获取项目与安装依赖
 
+```bash
 git clone https://github.com/sansan0/TrendRadar.git cd TrendRadar pip install -r requirements.txt
+```
 
 首先，克隆 TrendRadar 仓库到本地，并进入项目目录。随后，使用 pip 安装项目所需的 Python 依赖包。建议使用虚拟环境以隔离依赖。
 
@@ -43,7 +45,9 @@ TrendRadar 的核心配置位于config/config.yaml文件中。你需要根据需
 
 ## 🛠️ 步骤三：运行数据采集与分析
 
+```bash
 python main.py --config config/config.yaml
+```
 
 配置完成后，即可启动 TrendRadar 的数据采集与趋势分析流程。系统将按照配置自动从指定平台抓取数据，并通过trendradar/core/analyzer.py中的模块进行 NLP 处理、时间序列分析和情感计算。运行以上命令开始执行。
 

@@ -4,7 +4,7 @@ date: 2026-04-07 12:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为量化研究中的数据、模型和部署难题头疼？微软开源的 AI 量化投资平台 Qlib，提供了一个从想法到生产的完整解决方案。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVTQvjnevlET2rGSfLv2gYLibo6qFzI5dlf2enGCJOC71pZdRG5fSvzbdxR2XdK7cUyEKmQD5Ub6KZ9RzultSp5hQvvKze6rEhics/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/微软开源-Qlib用-AI-重塑量化投资研究全流程/764ed9aeac389653.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/yqXbtxM9fDTd_3j91oYlmQ"
 wechat_aid: "2247483904_1"
 ---
@@ -17,13 +17,13 @@ wechat_aid: "2247483904_1"
 
 ## 🔍 解决什么问题？适合谁？
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVRgicXgmic5HWIU4ynevJbfhBtibSnuLkreVAErshiaHeIHTR3b41Dg5cfpKib1hCFXWZibLFzMXaYdSRzcCRJTZtvCupKag4VTXGgLc/640?from=appmsg)
+![](/images/wechat-sync/微软开源-Qlib用-AI-重塑量化投资研究全流程/530639fe4087ec41.webp)
 
 如果你是一名量化研究员、AI工程师，或是金融科技领域的开发者，肯定深谙传统量化研究的痛点：数据处理繁琐低效、模型复现困难、研究成果难以落地生产。微软开源的 Qlib，正是为了解决这些问题而生。它是一个面向 AI 的量化投资平台，旨在利用前沿的机器学习技术，充分释放量化投资的潜力，并支持从策略探索到实盘部署的全流程。
 
 ## ✨ 核心亮点与功能剖析
 
-![](https://mmbiz.qpic.cn/mmbiz_png/81QgEribibGVSn0apJAqC1NLo4nq9KpYaCC14ymdEXl3q2XmD492xUqKxFqpcgiaj1ibmHeUodIrzuGr5yuxHbP4ZzI8ty9nVWyN2Hz89DAST64/640?from=appmsg)
+![](/images/wechat-sync/微软开源-Qlib用-AI-重塑量化投资研究全流程/495cdf168179559f.png)
 
 Qlib 的核心亮点在于其构建了一个高性能、一体化的量化研究基础设施。
 

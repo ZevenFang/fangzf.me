@@ -4,7 +4,7 @@ date: 2026-03-17 23:40:17
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "本文详细讲解如何安装和配置 OpenClaw 龙虾机器人，并将其无缝接入企业微信，实现自动化通知、智能问答与流程触发，提升团队协作效率。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVQ7TibNwTG2CvjFjFKrREiaCdviaAuSrj322OA0bTZ8HeSLHoHcILElSD9RfiazGPsS1fBVibBDGW7N7ZwoAZxx93vbuoYnKbD0Zaicw/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/企业微信机器人快速上手OpenClaw-安装与接入指南-🦞/dfe54a68d4bf212a.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/PrBAcgmr7U386oP8vYGAXg"
 wechat_aid: "2247483697_2"
 ---
@@ -15,7 +15,7 @@ wechat_aid: "2247483697_2"
 
 🔧 前置条件与环境准备 在开始安装前，请确保已满足以下基础条件：服务器或本地环境需安装 Python 3.8 及以上版本，并配置好 pip 包管理工具；同时拥有企业微信管理员权限，以便创建应用并获取关键凭证（如 CorpID、Secret）。建议使用 Linux 或 macOS 系统进行部署，Windows 用户可通过 WSL 或虚拟机运行。若需长期运行，可提前准备 Supervisor 或 systemd 等进程管理工具。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVQoNeSdicTh9l0ex8KNg7Ab4zebMv7jkogtuXXYXmNJQqmTRgRIgn21iaIp2GKKZlj9SxAJQDEPek4XN6VwUo76W4f3qKibyScD7I/640?from=appmsg)
+![](/images/wechat-sync/企业微信机器人快速上手OpenClaw-安装与接入指南-🦞/ab515825e72e4729.webp)
 
 📦 步骤一：安装 OpenClaw 核心组件 首先，通过 pip 安装 OpenClaw 及其依赖库。在终端中执行命令 `pip install openclaw`，系统将自动下载最新稳定版本。安装完成后，运行 `openclaw --version` 验证是否成功。若遇到网络问题，可使用国内镜像源加速，例如 `pip install openclaw -i https://pypi.tuna.tsinghua.edu.cn/simple`。此外，建议创建虚拟环境以隔离依赖，避免与其他项目冲突。
 

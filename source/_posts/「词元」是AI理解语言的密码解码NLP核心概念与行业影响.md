@@ -4,7 +4,7 @@ date: 2026-03-30 23:58:51
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "随着大语言模型和生成式AI爆发，\"词元\"（Token）作为自然语言处理的基础单元，正从技术术语走向行业焦点。本文带你理清其定义、应用与未来趋势。"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVQQiceAWagM7XEpQQwSN4FzqwgMtKhXFGQ1z4NHJptiaaEdKQ4HACrwZt0kdT7ibTPBhlexX5tlFuRbY55BqrRrlrsSKsxAia4txIE/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/「词元」是AI理解语言的密码解码NLP核心概念与行业影响/b05a1a202ebb8c13.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/0mjGXTju-O-ULoI9cKM3eQ"
 wechat_aid: "2247483860_1"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483860_1"
 
 ## 📈 什么是词元？拆解文本的最小语义单元
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVSSNbuBfFU7XVgwgFPfYOXuAFuuOicBQvXnRkuhE8CmCDib7PEcTnTnsCB3O9DzsOrXaLjkAeVz3QsttUvN4h59OEsaHWWhWePLs/640?from=appmsg)
+![](/images/wechat-sync/「词元」是AI理解语言的密码解码NLP核心概念与行业影响/46d4965b2d571fcd.webp)
 
 词元可以简单理解为文本被计算机处理时的最小语义单元。它不等同于一个单词或汉字，而是根据语言特点和模型需求，将文本切割成的片段。例如，英文中“running”可能被拆成“run”和“##ing”两个词元；中文里“人工智能”可能被视为一个词元或按字拆分。这种切割方式直接影响模型对语义的捕捉效率与准确性。
 

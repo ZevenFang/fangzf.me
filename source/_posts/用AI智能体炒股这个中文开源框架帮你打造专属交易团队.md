@@ -4,7 +4,7 @@ date: 2026-03-25 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "TradingAgents-CN 是一个专为中国市场优化的多智能体金融交易决策框架。它模拟真实交易公司的专业分工，通过多个AI智能体协作分析市场，为投资者提供智能化决策支持。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVToxX4Ds1ZxJ1ICHwDP3La03KDQxD47K5TFy3bDLyUWhxj5tUDspy7C649iclt6ICy3Pct2J1Cs3EpHiaBFGf2fbBrI1RfeEHuls/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/用AI智能体炒股这个中文开源框架帮你打造专属交易团队/ea1c15ef8d9a94ad.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/3kWVn2mmaBj_rls6nFDzSg"
 wechat_aid: "2247483829_1"
 ---
@@ -19,7 +19,7 @@ TradingAgents-CN 是一个专为中国市场优化的多智能体金融交易决
 
 ## 🔍 项目核心亮点：分工协作的AI交易团队
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVQbLsUXzbyCxSkSTK9iaxEialS83taiaZPljHHtzQicuib1aTYp8yAqTEhkzaFgd9aQPmKzqJrRcWIDDr5ao5k113zVPSocIknwic0oY/640?from=appmsg)
+![](/images/wechat-sync/用AI智能体炒股这个中文开源框架帮你打造专属交易团队/3e0c42f3e94feb80.webp)
 
 TradingAgents-CN 的核心思想是模拟真实交易公司的专业分工。它并非一个单一模型，而是由多个具备不同“职能”的AI智能体组成的协作系统。
 

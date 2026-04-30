@@ -4,7 +4,7 @@ date: 2026-03-25 14:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为AI应用记不住历史对话而烦恼吗？Supermemory 是一个专为AI应用设计的开源记忆与上下文层，能自动学习、构建用户档案，让AI真正“认识”你。"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVQd0qyFknKNX3WH81iaWd2oJa4jH8V2hoGqQN6U1kxHJSibyj7bnuWZSuu5hyiaAwlFc86LoubYduf8gp1Nnxrqbe9Gl7KrLmF2ZQ/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/🤖-让AI记住你开源记忆层项目-Supermemory-深度体验/50e9b9cc92c1357b.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/DqvqDHDaIad04zaXmlMOJg"
 wechat_aid: "2247483834_1"
 ---
@@ -17,7 +17,7 @@ wechat_aid: "2247483834_1"
 
 ## 🌟 导语：告别“金鱼脑”AI，迎接有记忆的智能
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVTI3AVkPW1euXPoGrUOoibDibYfEXo5R2jYGjw5le6Racu2BgZljrFuusQSGGzPGNokyvHwkohmq86KUDsdVHtw8A7PnGq7KxFNE/640?from=appmsg)
+![](/images/wechat-sync/🤖-让AI记住你开源记忆层项目-Supermemory-深度体验/54725fd941789afb.webp)
 
 在构建AI应用时，你是否遇到过这样的困境：每次对话都像初次见面，AI无法记住用户的偏好、历史或上下文？这不仅影响体验，更限制了AI的深度应用潜力。SupermemoryAI/Supermemory 正是为了解决这一核心痛点而生。它是一个开源项目，旨在为AI应用提供强大的记忆和上下文管理能力，抽象掉复杂的记忆管理逻辑，让开发者能轻松构建“有记忆”的智能系统。
 

@@ -4,7 +4,7 @@ date: 2026-04-09 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "想在手机、手表等边缘设备上本地部署大语言模型？谷歌开源的高性能推理框架 LiteRT-LM，为你解决资源受限下的高效 AI 推理难题。"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVResS5dy6hU8sZ2Xbb50OAqIXibkZiaXsfYeDZT3hAkUYEBQDZaUmDLcrrZTm8ne53iaiaGQxyodPuhh0BrsgvjolNbwQ9KxOTbJfg/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/谷歌开源在手机手表上高效跑大模型,LiteRT-LM-来了/071f2869fe13ddcb.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/nHfB1Lj7bxVtvFAc--u8ww"
 wechat_aid: "2247483910_1"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483910_1"
 
 ## 🌟 它是什么？解决什么问题？
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVSDNutgBHcVQ2ic13UdnibiaUkrgicQVaX1JNibelmnOouW4MtQb94XBlC5xuQlEP2xxRbYsEvoJALaTtOTrrTNTMShkuWFs00mP5e4/640?from=appmsg)
+![](/images/wechat-sync/谷歌开源在手机手表上高效跑大模型,LiteRT-LM-来了/8db725d5841558fd.webp)
 
 这是一个专为边缘设备设计的高性能、生产就绪的推理框架，旨在解决在资源受限的终端上高效部署和运行大型语言模型（LLM）的挑战。它通过深度优化，让 AI 应用能在本地实现低延迟、高隐私的运行，无需依赖云端。对于从事移动端 AI、嵌入式 AI 开发，或希望打造下一代本地化智能应用的开发者来说，LiteRT-LM 提供了一个强大而可靠的基石。
 

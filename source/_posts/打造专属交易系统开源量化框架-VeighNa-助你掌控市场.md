@@ -4,7 +4,7 @@ date: 2026-03-23 10:14:20
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "想用 Python 搭建专业的量化交易系统，却苦于接口繁杂、开发困难？VeighNa（原 vnpy）这个开源框架，或许正是你需要的解决方案。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVSBXEEo5N1k2t0BfV2GCwD75Qt4aWTHfmdR20xSQ7fWR4j9ImCKknmxax37xmo9ob1mUmeAibic2mgzNQIzrjgQoyYt7YVOowyP0/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/打造专属交易系统开源量化框架-VeighNa-助你掌控市场/97aa89578462bc2d.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/ZjP-LuOI2ZS8YqOMRlnm8w"
 wechat_aid: "2247483805_1"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483805_1"
 
 ## 🌟 核心定位：全流程量化开发框架
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVQtrOtXohibvbvibA7lC9Z5KTLzPw8UbUFPsl8DUOsrMRZ4dicz1xG9vMOFlqdAicAVXBo0V3N9xRCzX6QGBbicARxj1GbLMbVto4YY/640?from=appmsg)
+![](/images/wechat-sync/打造专属交易系统开源量化框架-VeighNa-助你掌控市场/3763ed3a4de032d8.webp)
 
 VeighNa 的核心价值在于其完整性与专业性。它并非一个简单的策略回测工具，而是一个覆盖了策略研究、回测验证、实盘交易和风险监控全流程的开发框架。其核心开源项目 VNTrader 采用事件驱动架构，确保了高并发场景下的稳定运行。无论是个人投资者构建自动化交易工具，还是机构团队开发内部交易系统，都能基于 VeighNa 快速搭建起基础框架，将主要精力集中于策略逻辑本身。
 

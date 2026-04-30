@@ -4,7 +4,7 @@ date: 2026-03-26 16:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "本文深度解读如何为 OpenClaw AI 智能体集成 Tavily 实时搜索技能，详解其如何突破信息盲区、优化搜索质量，并提供金融投研、市场分析等场景的落地实践指南。"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVQsjtgq2fWicuTUnYiaqibRTrUiaEYDR1powvibrl6PricAM85PTCGcI0eibp92ickfS8OPcprccCdicVmHy8c3FvIvFFsSxEFtiaHTaDov8/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/🦞给-OpenClaw-装上”眼睛”深度解读-Tavily-实时搜索集成/ff7d8417dd8e27ba.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/N4qjAnlz_MYGXSd05k-48A"
 wechat_aid: "2247483844_1"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483844_1"
 
 对于从事金融分析、行业研究、竞品跟踪或日常信息处理的团队和个人而言，理解并应用 Tavily 搜索技能，价值显著。它不仅能让你告别在不同搜索引擎和资讯平台间手动切换的繁琐，更能通过聚合与结构化处理，系统性“降低信息盲区”，提升决策的信息质量与效率。阅读本文，你将获得从概念理解到实操落地的完整路径。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVROvhdx4nBbGoTV8SksuXYhz8pmQ0VkiaxanhAD9JJff5mnp1XOCcsYYaYPzzKLcDj3PiaHW0NAzWUviaek5fXcsVQuzuuWNOfC7c/640?from=appmsg)
+![](/images/wechat-sync/🦞给-OpenClaw-装上”眼睛”深度解读-Tavily-实时搜索集成/e34822fe7b3571a3.webp)
 
 ## 📘 一、 Tavily 搜索：不只是“搜到”，更是“筛好”与“理清”
 

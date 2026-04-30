@@ -4,7 +4,7 @@ date: 2026-03-27 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为不同 AI 模型的 API 接口各异而头疼？开源项目 LiteLLM 提供了一个标准化的 OpenAI 兼容接口，让你用同一套代码轻松调用 GPT、Claude、本地模型等众多 LLM，极大提升开发效率。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVSpZuAkicTnVEG4KnvIYKlZXuyg4IuBiavu48F3xKbQSFer4KqPlX9XBeGl0hWen3DQFdaRHNoaUXK1UWqfch7c7vibXPWpHjRIib8/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/一键集成各大-AI-模型,LiteLLM-让开发者告别切换烦恼/e9da97065e91987b.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/5l-7SWSkv3nTJD191VGkWQ"
 wechat_aid: "2247483855_2"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483855_2"
 
 ## ✨ 核心亮点与强大功能
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVRluXR4ZBiaicdreDnV4YYLevA8XDniciaMOTfQF9S6Thic9n0ZlOMOm61uicv7RiatCk6CNpy8HLIoQEyeblkcicYNEmn91PQDicxliasMw/640?from=appmsg)
+![](/images/wechat-sync/一键集成各大-AI-模型,LiteLLM-让开发者告别切换烦恼/27f084f65fc1c573.webp)
 
 - 统一接口：所有模型调用都遵循 OpenAI API 格式，大幅降低学习与集成成本。
 

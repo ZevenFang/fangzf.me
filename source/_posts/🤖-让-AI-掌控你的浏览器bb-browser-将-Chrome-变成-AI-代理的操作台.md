@@ -4,7 +4,7 @@ date: 2026-04-06 12:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为 AI 无法操作登录状态的网页而烦恼？bb-browser 提供了一个 CLI 工具和 MCP 服务器，让你的 AI 助手能直接控制 Chrome，无缝访问需要登录的网站。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVQSXErWwicKic5Sibw13OVA5ge1ZhdVjNF7sekUZbHmLHiajSlGMljRtwmeExBXe9Z87VD46cpUef7Efkq2iaF1vpyjn1n3Vys2hYeQ/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/🤖-让-AI-掌控你的浏览器bb-browser-将-Chrome-变成-AI-代理的操作台/53e7f6cbcebf396b.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/R40S6siwWz4F5-65YIME-A"
 wechat_aid: "2247483895_1"
 ---
@@ -17,13 +17,13 @@ wechat_aid: "2247483895_1"
 
 ## 🌟 导语：当 AI 需要操作“已登录”的网页
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVQSDBibeTvroXNAERiaVscD5XNINHN2Jp6Hb09WEHOFBiabgmKloSIDJpcrBaXWjsdeBAEEeAmgMwKoFZgVKv94j0rJqMDwPjkm08/640?from=appmsg)
+![](/images/wechat-sync/🤖-让-AI-掌控你的浏览器bb-browser-将-Chrome-变成-AI-代理的操作台/04a9945b4dae5ac7.webp)
 
 你是否遇到过这样的场景：想让 AI 助手帮你查询邮件、管理社交媒体，或者自动化处理一些网页任务，却因为登录状态问题而受阻？传统的自动化工具往往难以处理复杂的登录和会话保持。
 
 ## 🧰 bb-browser 是什么？为谁而生？
 
-![](https://mmbiz.qpic.cn/mmbiz_png/81QgEribibGVRJrltB12d76AfEqujd4SLtA81KKibDCtzhCUGJVVhw2zgvpdq55ibKznctYHHia5xKAXLyiaQ3GopnXBicevdxztwic7XXlTMicf3ib38/640?from=appmsg)
+![](/images/wechat-sync/🤖-让-AI-掌控你的浏览器bb-browser-将-Chrome-变成-AI-代理的操作台/961b688f906109d5.png)
 
 现在，一个名为 bb-browser 的开源项目巧妙地解决了这个问题。它的核心理念是“你的浏览器就是 API”。通过提供一个命令行界面（CLI）和模型上下文协议（MCP）服务器，bb-browser 允许 AI 智能体直接控制一个真实的 Chrome 浏览器实例，并且这个浏览器可以携带你预先登录的会话状态。这意味着 AI 可以像真人一样操作那些需要认证的网页应用。
 

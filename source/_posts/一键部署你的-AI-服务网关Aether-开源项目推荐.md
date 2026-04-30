@@ -4,7 +4,7 @@ date: 2026-04-10 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为管理多个 AI 服务 API 密钥而烦恼？Aether 是一个自托管的 AI API 网关，帮你统一接入、智能调度、控制成本。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVTyHH3TuJDu7UJuvxmceAOjBiaDRd2JIBcUPG6ovNKPLK3EicmvqZaGZsUhnPNexY4fo5iccgOHhXICibMjEwluicYqAypdMN1xkvHY/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/一键部署你的-AI-服务网关Aether-开源项目推荐/3690a598e5ed4f07.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/38JhUN5bUzvIG5-UQmRlhA"
 wechat_aid: "2247483915_1"
 ---
@@ -17,13 +17,13 @@ wechat_aid: "2247483915_1"
 
 ## 🌟 导语：AI 服务管理的救星
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVSr9PZib93DXIicrPYWN9h5DgnjGCbeTWBQicyLxjkRbKyeWNK1PQ4F9rLjE1u6yW7gnsmoPSOFIiboIIhAHYQVm53HZ5csxSeWtrI/640?from=appmsg)
+![](/images/wechat-sync/一键部署你的-AI-服务网关Aether-开源项目推荐/53ba3939ebb17e5d.webp)
 
 在 AI 应用开发浪潮中，开发者经常需要同时调用 OpenAI、Claude、Gemini 等多个服务。管理分散的 API 密钥、监控使用成本、处理服务故障成为团队协作的痛点。Aether 正是为解决这些问题而生。它是一个开源的自托管 AI API 网关，为团队和个人提供了一个统一的 API 入口。无论你是独立开发者、小型创业团队，还是需要内部 AI 服务治理的企业，Aether 都能帮助你简化管理流程，提升资源利用效率，让开发者更专注于应用逻辑本身。
 
 ## 核心功能与亮点 🚀
 
-![](https://mmbiz.qpic.cn/mmbiz_png/81QgEribibGVRCffia3e84R3ORGKhCNqoWZ1Rb05wWOuIAayNHwI3nCw1ibGOUQWEoic8ugjLPHcqJG8FsKtX8kPhGliaibqRvLUfUDvmdB8fMfes4/640?from=appmsg)
+![](/images/wechat-sync/一键部署你的-AI-服务网关Aether-开源项目推荐/fc33dfbc18757d35.png)
 
 - ●统一接入与管理：通过单一端点接入 Claude、OpenAI、Gemini 等主流 AI 服务，告别密钥散落。
 

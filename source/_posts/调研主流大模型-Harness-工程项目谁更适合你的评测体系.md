@@ -4,7 +4,7 @@ date: 2026-04-25 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "比较 lm-eval、HELM、OpenCompass、LightEval 的定位、优劣势与选型建议。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVTnuicicju4pD4zIDxooicibaOz2YHvvYvI1f0lU0L20AVXMDv9EicRSOUFXGtLQzsgZeXic13sOzamNewQQ7rIOTvDjraMapzuxea2s/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/调研主流大模型-Harness-工程项目谁更适合你的评测体系/bdb725cb48ec362f.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/hbD8jF0XpeYejupJ0JhC-Q"
 wechat_aid: "2247484106_1"
 ---
@@ -15,7 +15,7 @@ wechat_aid: "2247484106_1"
 
 比较 lm-eval、HELM、OpenCompass、LightEval 的定位、优劣势与选型建议。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVQXujqFrVf5LYsRDaARhqeT4uTwoOWrQnRRATa1zicT82MuOgtI8nZlEP9jkKmYMOJYozickLBibe7jtqmnicue1dHxOPTcrHIDjiac/640?wx_fmt=jpeg)
+![](/images/wechat-sync/调研主流大模型-Harness-工程项目谁更适合你的评测体系/3006ff8bfb1e1353.jpg)
 
 主流大模型评测 Harness 工程项目对比摘要：从 lm-eval、HELM、OpenCompass、LightEval 四个代表项目出发，比较定位、工程特点、优缺点与选型建议。
 

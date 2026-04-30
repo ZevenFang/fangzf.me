@@ -4,7 +4,7 @@ date: 2026-04-02 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为AI只能简单对话而烦恼？字节跳动开源DeerFlow 2.0，一个能拆解、执行、记忆复杂任务的全栈AI智能体框架，开发者与AI应用构建者的新生产力利器。"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVT0oTA8Sl2ibMl1icAN4MtqC8wXeUVGxdfeibduetjqUGWw9vV3pemkeXubHWdDskKsxKHPzBjw0cEDxZDyShygnRZiceicZdnrMECk/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/DeerFlow-2.0字节开源「超级智能体」框架,让AI从聊天助手变身全能员工/cff8d0e342065ea3.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/UDRU4j1f8SAjekO0PBsRhg"
 wechat_aid: "2247483870_1"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483870_1"
 
 ## 🌟 它是什么？适合谁用？
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVTCqRd3epauPnGdFzvPK3icOOvKnAFD5Xn05HMW4aIvicEmEhMLO2ccDdN5PtnWZGbnQrT9zhrQ0qribAZe0dYk6IMsbnIob00ZvQ/640?from=appmsg)
+![](/images/wechat-sync/DeerFlow-2.0字节开源「超级智能体」框架,让AI从聊天助手变身全能员工/c722b8251b086137.webp)
 
 这个由字节跳动开源的全栈AI智能体框架，定位为“超级智能体执行底座”。它旨在解决传统AI Agent在任务拆解、长期记忆、安全隔离等方面的痛点，让AI从“聊天工具”升级为能独立执行复杂任务的“生产力助手”。无论是开发者想要构建复杂的AI应用，还是团队希望引入自动化智能工作流，DeerFlow 2.0都提供了一个强大而可靠的基石。
 

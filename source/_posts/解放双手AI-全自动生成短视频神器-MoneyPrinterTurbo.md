@@ -4,7 +4,7 @@ date: 2026-03-26 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为制作短视频文案、找素材、剪辑而发愁？这款开源工具能让你输入一个主题，就自动生成一条完整的视频。"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVQ1XCSyA1ekTyaTUIb8O4OThtKCr1tu73xDYIu4MQ9uIdTliaTq7VxF2BDQPgMcQr8rWibnkp5EgibvAUkUshvHib7Y4BnlkFGicZfU/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/解放双手AI-全自动生成短视频神器-MoneyPrinterTurbo/344978b99bae7883.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/KeA3AI_kftvaeELzG1BtaQ"
 wechat_aid: "2247483839_1"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483839_1"
 
 ## 🌟 核心亮点：一站式 AI 视频工厂
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVTB9y5EicWTZDsARibUdT9Hndqs1Ub86G7EcosxYVB9w5smxxCL4hYAlguEianTNTBsJWwSYffRYjYgBXbHfqeTRwLVjic3hQnRO2w/640?from=appmsg)
+![](/images/wechat-sync/解放双手AI-全自动生成短视频神器-MoneyPrinterTurbo/f5399e4036a2203e.webp)
 
 MoneyPrinterTurbo 的强大之处在于其高度集成的自动化流程。你只需要在 Web 界面或通过 API 输入一个视频主题或关键词，它便会调动背后的大语言模型（LLM）自动生成视频文案，接着利用计算机视觉技术智能匹配相关的无版权图片或视频素材，并自动完成视频合成、添加背景音乐、生成同步字幕等一系列操作。整个过程无需人工干预，真正实现了“一键出片”。
 

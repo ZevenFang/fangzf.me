@@ -4,7 +4,7 @@ date: 2026-03-22 10:10:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为监控服务器状态而烦恼吗？vStats 是一款极简开源的服务器监控面板，通过 Go 与 WebSocket 实现毫秒级数据刷新。本文将带你从零开始，快速部署属于你的专属服务器监控看板。"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVSyzlqhmSAqicUV4StkSSE35Bia96lwH8xGj2YPicia98YbLAOuArAKExnwJS1WPx2lshlkulKygQXNglW0x7bcktSaibI0KvicT3tZc/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/vStats为你的服务器打造一个轻量、美观的实时监控看板/91c294137d6596e0.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/oLCpaolkxd_HGdCV31FK9g"
 wechat_aid: "2247483800_1"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483800_1"
 
 ## 🛠️ 导语：为何选择 vStats？
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVTQeXbxSQBx5qPZvgv5nytCicQceCSHlicMNheZPiau7v9ppicz58rDLbFd2KA0zVRUibOYRMkibmyl46iawk8hF8KcjxYDgRFQsJDgYY/640?from=appmsg)
+![](/images/wechat-sync/vStats为你的服务器打造一个轻量、美观的实时监控看板/a9a6ca1d2d679af9.webp)
 
 对于运维人员或拥有多台 VPS、家用服务器的开发者来说，实时掌握服务器的 CPU、内存、磁盘和网络状态至关重要。然而，像 Prometheus 这样的企业级监控方案配置复杂、资源占用高，对于个人或轻量级应用场景而言显得有些“大材小用”。有没有一款既美观又轻便，还能实时刷新的监控工具呢？
 

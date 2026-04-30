@@ -4,7 +4,7 @@ date: 2026-04-15 12:48:02
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "不是谁最强，而是谁最适合你的工作方式：Claude Code 偏深度编码，OpenClaw 偏开放可控，Hermes Agent 偏全能执行与长期协作。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVSAGjbIl0btJHJiarcESHY55Oib3OIQ79jrtjdm2IU4FicedENaJYCUPpUO6BzVkxvXrQ6slteJFKZd7XCwMFF5vtvD827HRHiby0A/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/Claude-Code、OpenClaw、Hermes-Agent,谁更适合你的-AI-编码工作流/01330d05f1065b30.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/Pp9zNH0F4U4z803CkO_AWA"
 wechat_aid: "2247483965_1"
 ---

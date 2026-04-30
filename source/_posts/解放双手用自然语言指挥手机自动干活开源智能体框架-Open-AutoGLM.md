@@ -4,7 +4,7 @@ date: 2026-03-21 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在手动点点点？这个开源项目能让你的手机“听懂人话”，自动完成微信发消息、刷短视频等重复操作，堪称懒人福音！"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVQcL7ibzkibe0aFkmUfC0ZYKClMdvzaYvgCzUtTK5ftR7Z9vofiavG1ibOglw5ApIicVMJn1H2Aib47S41U5DHQsmEnicQ0iaeZqckEblc/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/解放双手用自然语言指挥手机自动干活开源智能体框架-Open-AutoGLM/89e459ef5c3782f5.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/EaPFWu5tTwHxe8uHfL9y8g"
 wechat_aid: "2247483781_1"
 ---
@@ -17,7 +17,7 @@ wechat_aid: "2247483781_1"
 
 ## 🌟 导语：让手机听懂指令的智能管家
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVTf3UkNep4VAXxugMMRyhITHqM0kQRbRUcm6zia52c9bWfqmeFbdAUSgVe1cbFBg4k2TZhicTwewrvJA96HzPr9qdvibg7J7MNoyc/640?from=appmsg)
+![](/images/wechat-sync/解放双手用自然语言指挥手机自动干活开源智能体框架-Open-AutoGLM/cc30fd7353186b26.webp)
 
 厌倦了在手机上重复那些繁琐的点击、滑动操作？想不想直接告诉手机“帮我给张三发条微信”，它就自动搞定一切？今天推荐的开源项目 Open-AutoGLM，正是这样一个能让手机“听懂人话”并自动执行的智能体框架。它通过AI“看”懂屏幕，模拟人类操作，非常适合想要自动化手机任务、研究智能体技术或打造个人效率工具的开发者与极客们。
 

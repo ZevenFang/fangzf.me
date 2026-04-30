@@ -4,7 +4,7 @@ date: 2026-04-29 09:04:51
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "小米 MiMo Orbit 百万亿 Token 创造者激励计划已经开放申请：30 天内免费发放总计 100 万亿 Token 权益，面向个人开发者、团队和企业。本文整理申请入口、适合人群、评估要点和使用场景。"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVRYxCJ1vm8qnlcmCOrAFsVwdYSib3U2QicNuOj4xVWdbYvuf29B2SEH99EvaOUJFzOHJFpgHW5Socqp13AAicIyw81G4Lgtgw7fO0/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/小米突然发-100-万亿-Token-开发者现在就能申请/3cc61c1d604cd194.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/mAh4OTWnHhmwnRyr_Gy6jg"
 wechat_aid: "2247484195_1"
 ---
@@ -55,12 +55,12 @@ Token Plan 是开放平台的订阅制套餐，可直接配置到 Claude Code、
 
 申请流程并不复杂：
 
-1. 打开申请页：https://100t.xiaomimimo.com/
-2. 点击「立即申请」，填写并提交表单
-3. 等待评估，活动页提示大约 3 个工作日
-4. 评估通过后，查看通知邮件
-5. 使用表单填写的邮箱登录或注册 Xiaomi MiMo API 开放平台
-6. 权益通常会在收到邮件后的 24 小时内到账
+### 1. 打开申请页：https://100t.xiaomimimo.com/
+### 2. 点击「立即申请」，填写并提交表单
+### 3. 等待评估，活动页提示大约 3 个工作日
+### 4. 评估通过后，查看通知邮件
+### 5. 使用表单填写的邮箱登录或注册 Xiaomi MiMo API 开放平台
+### 6. 权益通常会在收到邮件后的 24 小时内到账
 
 这里有一个容易忽略的点：邮箱要对上。
 

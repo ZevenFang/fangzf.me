@@ -4,7 +4,7 @@ date: 2026-04-05 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为写爬虫而头疼吗？Firecrawl 这个开源项目，能帮你轻松搞定网页数据采集，无论是开发者、数据科学家还是企业用户，都能快速上手！"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVRnSRLR8zFBOdMEnvM9UqCVKjhRH0zZGMKDroiaprfNDh3kM6cfagqJv00zfqcfJWwYodKl3cOj3CJkcYUpj0jbWwIZ4kLDREeM/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/Firecrawl让网页数据抓取变得简单高效/942c1dfe19cb3e4f.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/D7Ygl0i0LN5LVAwjayDikQ"
 wechat_aid: "2247483890_1"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483890_1"
 
 ## 🔥 核心功能亮点
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVSJsnsnA357kyuVejicY82rpNl1iarZS7ZCticxGGFs4SU93yQ6NM08mYIq0zOXXJpuF3m5RL6TetWIOeQVxej7ia0JTUTbJerzAFo/640?from=appmsg)
+![](/images/wechat-sync/Firecrawl让网页数据抓取变得简单高效/09590a1c7cca0b47.webp)
 
 - ●易于集成的 API：提供简洁的接口，快速接入现有项目
 

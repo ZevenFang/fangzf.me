@@ -4,7 +4,7 @@ date: 2026-03-31 22:07:12
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "本文旨在为技术开发者提供一份关于Harness Engineering的实践指南。通过清晰的结构化步骤，帮助您构建外部系统来驾驭大语言模型，解决智能体任务执行中的稳定性与自主性问题，从而实现复杂任务的可靠自动化。"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVTNS3aUWAFCJlCrHzRaib7WoRQS5vRDUTFgKoMqzZkvmIQzquP79SvmjOpJW6d5b2iboHPKUovYEgsEOyyJa44lLC3rD2eTX5q1Q/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/掌握Harness-Engineering构建稳定高效的AI智能体系统/c9a107c2f5b8d6cf.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/9WUk2AhWxTkcbn5b3sdL3Q"
 wechat_aid: "2247483875_1"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483875_1"
 
 本文适合中高级开发者、AI应用架构师以及对智能体系统稳定性有要求的工程团队阅读。您将了解到Harness的核心概念、一个基础的实践框架，并获得构建自己第一个Harness系统的清晰路径。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVSIQhbgdytjI8iabctFrCbHYDnRKBOpt0I4J4FmeVomr25tQWx3RTZ0QDDLUM8X88qC2ZCImiczADDxHY93Hq2Zf1fuyz378K67c/640?from=appmsg)
+![](/images/wechat-sync/掌握Harness-Engineering构建稳定高效的AI智能体系统/aeaa61f0957e0701.webp)
 
 ## 🏗️ 理解Harness工程的核心架构
 

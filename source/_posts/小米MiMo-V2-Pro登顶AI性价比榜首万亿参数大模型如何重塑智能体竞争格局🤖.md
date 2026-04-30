@@ -4,7 +4,7 @@ date: 2026-03-19 09:45:46
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "小米最新发布的万亿参数大语言模型MiMo-V2-Pro在OpenRouter上迅速登顶使用量榜首，凭借接近顶级模型的性能与仅五分之一的API定价，掀起了AI智能体市场的性价比革命。本文将从技术突破、市场影响与未来趋势三个维"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVQXs723RKK5m1A5NZU7vCyzqXqUIdOsq6yNesAib4Y94PguHicEYW4bCXZAsemjbudkOcJphH0MZn6nibYHXFsiavOtZR8qcnP3pibY/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/小米MiMo-V2-Pro登顶AI性价比榜首万亿参数大模型如何重塑智能体竞争格局🤖/8400d6baa50d49e1.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/akGtMsa9XUFbzYZ8EdqaOw"
 wechat_aid: "2247483736_1"
 ---
@@ -13,7 +13,7 @@ wechat_aid: "2247483736_1"
 
 小米最新发布的万亿参数大语言模型MiMo-V2-Pro在OpenRouter上迅速登顶使用量榜首，凭借接近顶级模型的性能与仅五分之一的API定价，掀起了AI智能体市场的性价比革命。本文将从技术突破、市场影响与未来趋势三个维
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVQklutAARt4JLoyJmQjKxEE3WicTiaibuOelppNV40WRHDqjiaiaDEupzib76QBR9sM0G6dUAJuvmMLVQ8f2ngfJicQ9WBsaA5iaMO5ic0E/640?from=appmsg)
+![](/images/wechat-sync/小米MiMo-V2-Pro登顶AI性价比榜首万亿参数大模型如何重塑智能体竞争格局🤖/589d02575ff88826.webp)
 
 影响对象
 

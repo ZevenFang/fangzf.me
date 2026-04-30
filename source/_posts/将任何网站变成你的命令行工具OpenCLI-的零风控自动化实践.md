@@ -4,7 +4,7 @@ date: 2026-04-08 12:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为网站数据抓取头疼？OpenCLI 让你用 CLI 直接操作 B 站、知乎、小红书等 30+ 平台，无需存储凭证，复用浏览器登录态，安全又高效。"
-cover: "https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVQGibLibzpicIjdvMozbMg0RgpaBnZ17p9XhTmJWcW1mqEq4plB4iacZM5ufqKLnGAq5oiapCy1RdgwybDmV291hg87V94ugrkaBc60/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/将任何网站变成你的命令行工具OpenCLI-的零风控自动化实践/5029b4a5a55bd58f.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/oOwhFf5Kwhg4MwrmV58Mgw"
 wechat_aid: "2247483905_1"
 ---
@@ -17,7 +17,7 @@ wechat_aid: "2247483905_1"
 
 ## 🌟 导语：告别爬虫烦恼，让浏览器为你工作
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVRf5a4YwTHT816IJK0tcII7Tvt4YvvZicl2MicsbfgdkolJWLGMJkQTziak5RmrerYiawGekMlCgPRqiay96D3Nicrn0icdAssFMhthxM/640?from=appmsg)
+![](/images/wechat-sync/将任何网站变成你的命令行工具OpenCLI-的零风控自动化实践/91e2c9480b2bedbf.webp)
 
 你是否曾为自动化获取社交媒体数据而烦恼？手动操作耗时，写爬虫又怕风控。今天推荐一个开源神器：OpenCLI。它由 Apache Arrow/DataFusion PMC 成员 jackwener 开发，核心目标是**将任何网站、Electron 应用或本地工具转化为命令行接口（CLI）**。它特别适合需要定期从 Twitter、B站、知乎、小红书等平台获取数据或执行自动化操作的用户，比如数据分析师、运营人员或开发者。你无需处理复杂的 API 申请或担心账号安全，因为它直接复用你已登录的 Chrome 会话。
 

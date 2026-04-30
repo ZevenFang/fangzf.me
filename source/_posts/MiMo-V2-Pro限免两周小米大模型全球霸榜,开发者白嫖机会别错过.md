@@ -4,7 +4,7 @@ date: 2026-03-27 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "小米旗舰大模型MiMo-V2-Pro发布即登顶全球调用榜，现宣布限免活动延长至两周。这不仅是技术福利，更是AI智能体生态的关键信号。"
-cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/81QgEribibGVSZaHv9vK5cUDEubaEcJicOicrKx9hZpQ3zDyPK6GZWGuficSFSpVNrkrD8W9EYBfQKllcqBFQFedPm1qcocrBZsia9xXlyyOOSCrY/0?wx_fmt=jpeg"
+cover: "/images/wechat-sync/MiMo-V2-Pro限免两周小米大模型全球霸榜,开发者白嫖机会别错过/dae8738804ab3984.jpg"
 wechat_link: "https://mp.weixin.qq.com/s/CXef3pwtebnA58NAcJMULQ"
 wechat_aid: "2247483855_1"
 ---
@@ -19,7 +19,7 @@ wechat_aid: "2247483855_1"
 
 ## 📈 为什么值得关注？霸榜模型的诚意回馈
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/81QgEribibGVTYiaTJ0bKopSUWf1gl9db9vKBicfn86JTjyA53F5j7FqhtYQeaCPicqiaEQJRLyOuwVXdJWSice8bxGEAfF9rG6qKDhaMhRfPcnKDk/640?from=appmsg)
+![](/images/wechat-sync/MiMo-V2-Pro限免两周小米大模型全球霸榜,开发者白嫖机会别错过/f3dc527e56fad2f0.webp)
 
 为什么这次限免如此值得关注？因为主角MiMo-V2-Pro本身就是一个“现象级”选手。自3月18日发布以来，这款拥有1万亿参数、专为复杂推理和代码任务深度优化的旗舰模型，在OpenRouter平台上的匿名测试阶段（代号‘Hunter Alpha’）便已一鸣惊人，连续多日蝉联全球日榜、周榜调用量TOP 1。这次延长限免，无疑是小米在模型取得市场热烈反响后，向生态抛出的最大诚意橄榄枝。
 
