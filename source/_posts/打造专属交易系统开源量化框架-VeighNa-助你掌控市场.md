@@ -8,8 +8,10 @@ cover: "/images/wechat-sync/打造专属交易系统开源量化框架-VeighNa-�
 wechat_link: "https://mp.weixin.qq.com/s/ZjP-LuOI2ZS8YqOMRlnm8w"
 wechat_aid: "2247483805_1"
 ---
-
 > 原公众号链接：[打造专属交易系统！开源量化框架 VeighNa 助你掌控市场](https://mp.weixin.qq.com/s/ZjP-LuOI2ZS8YqOMRlnm8w)
+
+
+![封面](/images/wechat-sync/打造专属交易系统开源量化框架-VeighNa-助你掌控市场/97aa89578462bc2d.jpg)
 
 内容摘要
 

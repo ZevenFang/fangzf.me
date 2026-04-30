@@ -8,8 +8,10 @@ cover: "/images/wechat-sync/一键集成各大-AI-模型,LiteLLM-让开发者告
 wechat_link: "https://mp.weixin.qq.com/s/5l-7SWSkv3nTJD191VGkWQ"
 wechat_aid: "2247483855_2"
 ---
-
 > 原公众号链接：[一键集成各大 AI 模型，LiteLLM 让开发者告别切换烦恼](https://mp.weixin.qq.com/s/5l-7SWSkv3nTJD191VGkWQ)
+
+
+![封面](/images/wechat-sync/一键集成各大-AI-模型,LiteLLM-让开发者告别切换烦恼/e9da97065e91987b.jpg)
 
 内容摘要
 

@@ -8,8 +8,10 @@ cover: "/images/wechat-sync/小米MiMo-V2-Pro限时免费一周AI编程助手能
 wechat_link: "https://mp.weixin.qq.com/s/BCbFKvHSfaY_tBAWnRtW9g"
 wechat_aid: "2247483755_1"
 ---
-
 > 原公众号链接：[小米MiMo-V2-Pro限时免费一周！AI编程助手能力飙升，全球排名第八！](https://mp.weixin.qq.com/s/BCbFKvHSfaY_tBAWnRtW9g)
+
+
+![封面](/images/wechat-sync/小米MiMo-V2-Pro限时免费一周AI编程助手能力飙升,全球排名第八/6de4111cf06cb8b4.jpg)
 
 小米MiMo-V2-Pro和MiMo-V2-Omni模型现已开启为期一周的限时免费体验！通过指定编程工具即可零成本调用顶尖AI编程助手，提升开发效率。本文为你带来详细上手教程与避坑指南。
 

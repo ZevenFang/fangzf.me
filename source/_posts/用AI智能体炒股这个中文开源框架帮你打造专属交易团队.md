@@ -8,8 +8,10 @@ cover: "/images/wechat-sync/用AI智能体炒股这个中文开源框架帮你�
 wechat_link: "https://mp.weixin.qq.com/s/3kWVn2mmaBj_rls6nFDzSg"
 wechat_aid: "2247483829_1"
 ---
-
 > 原公众号链接：[用AI智能体炒股？这个中文开源框架帮你打造专属交易团队](https://mp.weixin.qq.com/s/3kWVn2mmaBj_rls6nFDzSg)
+
+
+![封面](/images/wechat-sync/用AI智能体炒股这个中文开源框架帮你打造专属交易团队/ea1c15ef8d9a94ad.jpg)
 
 内容摘要
 

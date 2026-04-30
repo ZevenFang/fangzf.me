@@ -8,8 +8,10 @@ cover: "/images/wechat-sync/🦞给-OpenClaw-装上”眼睛”深度解读-Tavi
 wechat_link: "https://mp.weixin.qq.com/s/N4qjAnlz_MYGXSd05k-48A"
 wechat_aid: "2247483844_1"
 ---
-
 > 原公众号链接：[🦞给 OpenClaw 装上”眼睛”：深度解读 Tavily 实时搜索集成](https://mp.weixin.qq.com/s/N4qjAnlz_MYGXSd05k-48A)
+
+
+![封面](/images/wechat-sync/🦞给-OpenClaw-装上”眼睛”深度解读-Tavily-实时搜索集成/ff7d8417dd8e27ba.jpg)
 
 内容摘要
 

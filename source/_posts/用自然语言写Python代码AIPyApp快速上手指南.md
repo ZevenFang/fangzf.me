@@ -8,8 +8,10 @@ cover: "/images/wechat-sync/用自然语言写Python代码AIPyApp快速上手指
 wechat_link: "https://mp.weixin.qq.com/s/P_N0WpKhMhsGlcuZygpLHw"
 wechat_aid: "2247483771_3"
 ---
-
 > 原公众号链接：[用自然语言写Python代码：AIPyApp快速上手指南](https://mp.weixin.qq.com/s/P_N0WpKhMhsGlcuZygpLHw)
+
+
+![封面](/images/wechat-sync/用自然语言写Python代码AIPyApp快速上手指南/34ad03edfee03cb2.jpg)
 
 内容摘要
 

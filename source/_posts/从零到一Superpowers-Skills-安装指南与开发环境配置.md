@@ -8,8 +8,10 @@ cover: "/images/wechat-sync/从零到一Superpowers-Skills-安装指南与开发
 wechat_link: "https://mp.weixin.qq.com/s/5HV3C8hLgkFt3UvRlIRYlw"
 wechat_aid: "2247483725_1"
 ---
-
 > 原公众号链接：[从零到一：Superpowers Skills 安装指南与开发环境配置](https://mp.weixin.qq.com/s/5HV3C8hLgkFt3UvRlIRYlw)
+
+
+![封面](/images/wechat-sync/从零到一Superpowers-Skills-安装指南与开发环境配置/e30dec0455ebdaa7.jpg)
 
 ## 🛠️ 背景与目标
 

@@ -8,8 +8,10 @@ cover: "/images/wechat-sync/DeerFlow-2.0字节开源「超级智能体」框架,
 wechat_link: "https://mp.weixin.qq.com/s/UDRU4j1f8SAjekO0PBsRhg"
 wechat_aid: "2247483870_1"
 ---
-
 > 原公众号链接：[DeerFlow 2.0：字节开源「超级智能体」框架，让AI从聊天助手变身全能员工](https://mp.weixin.qq.com/s/UDRU4j1f8SAjekO0PBsRhg)
+
+
+![封面](/images/wechat-sync/DeerFlow-2.0字节开源「超级智能体」框架,让AI从聊天助手变身全能员工/cff8d0e342065ea3.jpg)
 
 内容摘要
 

@@ -8,6 +8,9 @@ cover: "/images/wechat-sync/大模型-Skill-和-MCP-到底有什么区别-一文
 wechat_link: "https://mp.weixin.qq.com/s/OM6vI1G17Uq4EeGPxgVKfw"
 wechat_aid: "2247484067_1"
 ---
+
+![封面](/images/wechat-sync/大模型-Skill-和-MCP-到底有什么区别-一文讲清两者关系与分工/87e69e45cbced993.jpg)
+
 这几年 AI 领域有两个词越来越常同时出现：Skill 和 MCP。
 
 很多人第一次接触它们时都会有点混乱。

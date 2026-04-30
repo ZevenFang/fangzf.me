@@ -9,6 +9,8 @@ wechat_link: "https://mp.weixin.qq.com/s/cRuZWGlL93UhowckqNbiwQ"
 wechat_aid: "2247484120_1"
 ---
 
+![封面](/images/wechat-sync/全民投研时代来了-普通人正在-手搓-自己的AI股票分析助手/3cb1ca5de49d6c3c.jpg)
+
 过去，普通人做股票研究，常常卡在第一步：信息太多。
 
 财报太长，公告太密，研报太散，新闻太快，行情软件里的指标又太多。很多投资者不是不想研究，而是不知道从哪里开始。

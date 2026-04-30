@@ -8,8 +8,10 @@ cover: "/images/wechat-sync/专为自动化和-AI-设计的高性能无头浏览
 wechat_link: "https://mp.weixin.qq.com/s/WncC_xD9SL2flvDOUsXRTw"
 wechat_aid: "2247483715_1"
 ---
-
 > 原公众号链接：[专为自动化和 AI 设计的高性能无头浏览器](https://mp.weixin.qq.com/s/WncC_xD9SL2flvDOUsXRTw)
+
+
+![封面](/images/wechat-sync/专为自动化和-AI-设计的高性能无头浏览器/381444452e507c68.jpg)
 
 Lightpanda Browser 是一个用 Zig 语言构建的开源无头浏览器，专为自动化和 AI 工作流程优化，性能卓越，资源消耗低，支持主流自动化框架。
 

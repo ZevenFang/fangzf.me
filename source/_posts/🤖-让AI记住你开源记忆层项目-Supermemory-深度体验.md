@@ -8,8 +8,10 @@ cover: "/images/wechat-sync/🤖-让AI记住你开源记忆层项目-Supermemory
 wechat_link: "https://mp.weixin.qq.com/s/DqvqDHDaIad04zaXmlMOJg"
 wechat_aid: "2247483834_1"
 ---
-
 > 原公众号链接：[🤖 让AI记住你：开源记忆层项目 Supermemory 深度体验](https://mp.weixin.qq.com/s/DqvqDHDaIad04zaXmlMOJg)
+
+
+![封面](/images/wechat-sync/🤖-让AI记住你开源记忆层项目-Supermemory-深度体验/50e9b9cc92c1357b.jpg)
 
 内容摘要
 

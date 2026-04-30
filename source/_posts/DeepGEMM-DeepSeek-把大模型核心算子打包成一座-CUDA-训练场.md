@@ -9,6 +9,8 @@ wechat_link: "https://mp.weixin.qq.com/s/iihmy8okg9TMKpLdGSowMw"
 wechat_aid: "2247484080_1"
 ---
 
+![封面](/images/wechat-sync/DeepGEMM-DeepSeek-把大模型核心算子打包成一座-CUDA-训练场/5633f7dc43ba99d7.jpg)
+
 ## 一、为什么这个项目值得看
 
 DeepGEMM 是 DeepSeek 开源的高性能 Tensor Core Kernel Library。项目自述里给它的定位很明确：把现代大语言模型里的关键计算原语，统一放到一个 CUDA 代码库中，包括 FP8、FP4、BF16 GEMM，带通信重叠的 fused MoE（Mega MoE），用于 lightning indexer 的 MQA scoring，HyperConnection 等。
@@ -28,7 +30,9 @@ DeepGEMM 的接口正是围绕这些场景展开：普通 dense GEMM、M 轴 gro
 
 ## 三、最有意思的设计：运行时 JIT
 
-DeepGEMM 安装时不要求直接编译所有 CUDA kernel。项目通过轻量级 JIT 模块，在运行时根据形状、架构和配置生成并编译 kernel。代码里可以看到，它会把 kernel 名称、编译器签名、flags 和源码拼成签名，再落到 ~/.deep_gemm/cache 下；并采用“先编译到临时目录，再原子 rename”的方式，避免分布式文件系统里多进程同时写缓存导致的脏状态。
+## DeepGEMM
+
+安装时不要求直接编译所有 CUDA kernel。项目通过轻量级 JIT 模块，在运行时根据形状、架构和配置生成并编译 kernel。代码里可以看到，它会把 kernel 名称、编译器签名、flags 和源码拼成签名，再落到 ~/.deep_gemm/cache 下；并采用“先编译到临时目录，再原子 rename”的方式，避免分布式文件系统里多进程同时写缓存导致的脏状态。
 
 这个设计有两个好处。
 
@@ -55,7 +59,9 @@ MoE 的瓶颈经常不只是专家内的矩阵乘法，还包括 expert parallel
 
 ## 六、性能口径：不要只看峰值 TFLOPS
 
-README 提到 DeepGEMM 在 H800 上最高达到 1550 TFLOPS，也强调性能可匹配或超过专家调优库。但读这个项目时，更建议把它当成“性能方法论”来看，而不是只记一个峰值数字。
+## README 提到 DeepGEMM
+
+在 H800 上最高达到 1550 TFLOPS，也强调性能可匹配或超过专家调优库。但读这个项目时，更建议把它当成“性能方法论”来看，而不是只记一个峰值数字。
 
 它的性能来源大致包括：
 

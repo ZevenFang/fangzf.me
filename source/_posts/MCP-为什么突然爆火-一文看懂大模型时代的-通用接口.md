@@ -9,6 +9,8 @@ wechat_link: "https://mp.weixin.qq.com/s/1LhRCLSwmjvhaAjN9Qa7zw"
 wechat_aid: "2247484051_1"
 ---
 
+![封面](/images/wechat-sync/MCP-为什么突然爆火-一文看懂大模型时代的-通用接口/0c704c2cbfcc1e48.jpg)
+
 如果你这几个月一直在看 AI Agent、Claude Code、ChatGPT Connectors、Cursor、VS Code Copilot 或各种“给大模型接工具”的项目，你大概率会反复看到三个字母：MCP。
 
 它火得很快，但真正说清楚的人并不多。很多介绍把 MCP 说成“让大模型会调用工具”，这当然没错，但还是太浅了。更准确地说，MCP 解决的是一个更底层的问题：当越来越多 AI 应用都想连接文件、数据库、搜索、浏览器、GitHub、Notion、Slack 这些外部系统时，大家到底要不要继续一对一地重复造接口？

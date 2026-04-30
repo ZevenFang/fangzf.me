@@ -8,8 +8,10 @@ cover: "/images/wechat-sync/「词元」是AI理解语言的密码解码NLP核�
 wechat_link: "https://mp.weixin.qq.com/s/0mjGXTju-O-ULoI9cKM3eQ"
 wechat_aid: "2247483860_1"
 ---
-
 > 原公众号链接：[「词元」是AI理解语言的密码？解码NLP核心概念与行业影响](https://mp.weixin.qq.com/s/0mjGXTju-O-ULoI9cKM3eQ)
+
+
+![封面](/images/wechat-sync/「词元」是AI理解语言的密码解码NLP核心概念与行业影响/b05a1a202ebb8c13.jpg)
 
 内容摘要
 
