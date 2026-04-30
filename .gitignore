@@ -4,4 +4,5 @@ node_modules/
 public/
 yarn.lock
 db.json
+.deploy_git/
 source/_posts/img
