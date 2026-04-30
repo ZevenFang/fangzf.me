@@ -4,12 +4,12 @@ date: 2026-04-21 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "什么是 Skill，它为什么不是普通 prompt，又为何会成为 Agent 的关键方法层。"
-cover: "/images/wechat-sync/什么是大模型-Skill-为什么它正在成为-Agent-的关键能力层/9ae126bdf26cce57.jpg"
+cover: "/images/wechat-sync/什么是大模型-Skill-为什么它正在成为-Agent-的关键能力层/1f595849abd96116.webp"
 wechat_link: "https://mp.weixin.qq.com/s/-8NKs9EPPuoVARJkI5xoDA"
 wechat_aid: "2247484058_1"
 ---
 
-![封面](/images/wechat-sync/什么是大模型-Skill-为什么它正在成为-Agent-的关键能力层/9ae126bdf26cce57.jpg)
+![封面](/images/wechat-sync/什么是大模型-Skill-为什么它正在成为-Agent-的关键能力层/1f595849abd96116.webp)
 
 如果你最近在看 AI Agent、Claude Code、Hermes、Browser Use，或者各种“能干活”的大模型助手，你可能会越来越频繁地看到一个词：Skill。
 

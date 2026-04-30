@@ -4,12 +4,12 @@ date: 2026-04-26 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "一文讲清 Token 中转站的本质、核心价值、适用场景与风险，为什么它正在成为很多 AI 应用团队的基础设施。"
-cover: "/images/wechat-sync/Token中转站是什么-一文讲清它为什么会成为很多-AI-应用团队的基础设施/6050ad160ffa8014.jpg"
+cover: "/images/wechat-sync/Token中转站是什么-一文讲清它为什么会成为很多-AI-应用团队的基础设施/d88eb7bfdb8b10b7.webp"
 wechat_link: "https://mp.weixin.qq.com/s/XyrIJbT9LuEy3SRVoPLX_w"
 wechat_aid: "2247484107_1"
 ---
 
-![封面](/images/wechat-sync/Token中转站是什么-一文讲清它为什么会成为很多-AI-应用团队的基础设施/6050ad160ffa8014.jpg)
+![封面](/images/wechat-sync/Token中转站是什么-一文讲清它为什么会成为很多-AI-应用团队的基础设施/d88eb7bfdb8b10b7.webp)
 
 如果你最近在接触大模型 API、AI 应用开发，或者准备做自己的聊天机器人、工作流工具、智能助手，很可能已经频繁看到一个词：Token 中转站。
 

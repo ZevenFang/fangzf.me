@@ -4,14 +4,14 @@ date: 2026-03-17 23:40:17
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "Superpowers作为开源AI技能框架，通过集成14个核心开发技能，覆盖从头脑风暴到代码验证的全流程，旨在将AI助手转变为遵循软件工程规范的高级开发者。"
-cover: "/images/wechat-sync/从安装开始Superpowers技能框架助你打造高效AI开发者/061e34b7f55bd5b9.jpg"
+cover: "/images/wechat-sync/从安装开始Superpowers技能框架助你打造高效AI开发者/1744cce52a6c1e29.webp"
 wechat_link: "https://mp.weixin.qq.com/s/AOPQ-DDtyl-RI-qx-fZV4g"
 wechat_aid: "2247483697_1"
 ---
 > 原公众号链接：[从安装开始：Superpowers技能框架助你打造高效AI开发者](https://mp.weixin.qq.com/s/AOPQ-DDtyl-RI-qx-fZV4g)
 
 
-![封面](/images/wechat-sync/从安装开始Superpowers技能框架助你打造高效AI开发者/061e34b7f55bd5b9.jpg)
+![封面](/images/wechat-sync/从安装开始Superpowers技能框架助你打造高效AI开发者/1744cce52a6c1e29.webp)
 
 ## 🛠️ 背景与目标：为何需要Superpowers？
 

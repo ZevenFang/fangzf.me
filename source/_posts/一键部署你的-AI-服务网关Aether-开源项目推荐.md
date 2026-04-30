@@ -4,14 +4,14 @@ date: 2026-04-10 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为管理多个 AI 服务 API 密钥而烦恼？Aether 是一个自托管的 AI API 网关，帮你统一接入、智能调度、控制成本。"
-cover: "/images/wechat-sync/一键部署你的-AI-服务网关Aether-开源项目推荐/3690a598e5ed4f07.jpg"
+cover: "/images/wechat-sync/一键部署你的-AI-服务网关Aether-开源项目推荐/e27e8434db0eb8ae.webp"
 wechat_link: "https://mp.weixin.qq.com/s/38JhUN5bUzvIG5-UQmRlhA"
 wechat_aid: "2247483915_1"
 ---
 > 原公众号链接：[一键部署你的 AI 服务网关：Aether 开源项目推荐](https://mp.weixin.qq.com/s/38JhUN5bUzvIG5-UQmRlhA)
 
 
-![封面](/images/wechat-sync/一键部署你的-AI-服务网关Aether-开源项目推荐/3690a598e5ed4f07.jpg)
+![封面](/images/wechat-sync/一键部署你的-AI-服务网关Aether-开源项目推荐/e27e8434db0eb8ae.webp)
 
 内容摘要
 

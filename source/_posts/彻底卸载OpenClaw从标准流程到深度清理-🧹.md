@@ -4,14 +4,14 @@ date: 2026-03-18 20:03:01
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "本文提供一份专业可靠的OpenClaw卸载指南，涵盖标准卸载命令、残留文件清理以及特殊场景处理。无论您是开发者还是运维人员，都能按照步骤彻底移除OpenClaw，避免残留进程或文件影响系统。"
-cover: "/images/wechat-sync/彻底卸载OpenClaw从标准流程到深度清理-🧹/ce951bda6e38fd8c.jpg"
+cover: "/images/wechat-sync/彻底卸载OpenClaw从标准流程到深度清理-🧹/d42a908509c0669a.webp"
 wechat_link: "https://mp.weixin.qq.com/s/CPSvOHbuLxzeVy2ljIOrIQ"
 wechat_aid: "2247483725_2"
 ---
 > 原公众号链接：[彻底卸载OpenClaw：从标准流程到深度清理 🧹](https://mp.weixin.qq.com/s/CPSvOHbuLxzeVy2ljIOrIQ)
 
 
-![封面](/images/wechat-sync/彻底卸载OpenClaw从标准流程到深度清理-🧹/ce951bda6e38fd8c.jpg)
+![封面](/images/wechat-sync/彻底卸载OpenClaw从标准流程到深度清理-🧹/d42a908509c0669a.webp)
 
 本文提供一份专业可靠的OpenClaw卸载指南，涵盖标准卸载命令、残留文件清理以及特殊场景处理。无论您是开发者还是运维人员，都能按照步骤彻底移除OpenClaw，避免残留进程或文件影响系统。
 

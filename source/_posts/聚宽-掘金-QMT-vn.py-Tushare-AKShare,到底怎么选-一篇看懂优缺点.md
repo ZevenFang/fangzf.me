@@ -4,12 +4,12 @@ date: 2026-04-17 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "同样是做量化，研究平台、交易终端、开源框架、数据接口其实是四种不同东西。本文把聚宽、掘金、QMT、vn.py、Tushare、AKShare放到同一张桌子上，对比它们各自的优点、缺点、适用人群与典型使用场景，帮你少走弯路。"
-cover: "/images/wechat-sync/聚宽-掘金-QMT-vn.py-Tushare-AKShare,到底怎么选-一篇看懂优缺点/465d8a9cf3b4f6c6.jpg"
+cover: "/images/wechat-sync/聚宽-掘金-QMT-vn.py-Tushare-AKShare,到底怎么选-一篇看懂优缺点/71a575f358a9f312.webp"
 wechat_link: "https://mp.weixin.qq.com/s/6H7nu0K51OHDU1kQDZBnlg"
 wechat_aid: "2247484027_1"
 ---
 
-![封面](/images/wechat-sync/聚宽-掘金-QMT-vn.py-Tushare-AKShare,到底怎么选-一篇看懂优缺点/465d8a9cf3b4f6c6.jpg)
+![封面](/images/wechat-sync/聚宽-掘金-QMT-vn.py-Tushare-AKShare,到底怎么选-一篇看懂优缺点/71a575f358a9f312.webp)
 
 很多人做量化，第一步就会问：到底该选哪个平台？
 

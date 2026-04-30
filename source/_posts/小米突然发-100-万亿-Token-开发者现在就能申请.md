@@ -4,14 +4,14 @@ date: 2026-04-29 09:04:51
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "小米 MiMo Orbit 百万亿 Token 创造者激励计划已经开放申请：30 天内免费发放总计 100 万亿 Token 权益，面向个人开发者、团队和企业。本文整理申请入口、适合人群、评估要点和使用场景。"
-cover: "/images/wechat-sync/小米突然发-100-万亿-Token-开发者现在就能申请/3cc61c1d604cd194.jpg"
+cover: "/images/wechat-sync/小米突然发-100-万亿-Token-开发者现在就能申请/84f0bb929bb08ea0.webp"
 wechat_link: "https://mp.weixin.qq.com/s/mAh4OTWnHhmwnRyr_Gy6jg"
 wechat_aid: "2247484195_1"
 ---
 > 小米 MiMo Orbit 百万亿 Token 创造者激励计划已经开放申请：30 天内免费发放总计 100 万亿 Token 权益，面向个人开发者、团队和企业。本文整理申请入口、适合人群、评估要点和使用场景。
 
 
-![封面](/images/wechat-sync/小米突然发-100-万亿-Token-开发者现在就能申请/3cc61c1d604cd194.jpg)
+![封面](/images/wechat-sync/小米突然发-100-万亿-Token-开发者现在就能申请/84f0bb929bb08ea0.webp)
 
 ![Xiaomi MiMo 100T Token 计划](/images/mimo-100t-cover.png)
 

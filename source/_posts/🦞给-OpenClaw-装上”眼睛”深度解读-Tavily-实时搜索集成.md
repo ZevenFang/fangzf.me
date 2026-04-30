@@ -4,14 +4,14 @@ date: 2026-03-26 16:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "本文深度解读如何为 OpenClaw AI 智能体集成 Tavily 实时搜索技能，详解其如何突破信息盲区、优化搜索质量，并提供金融投研、市场分析等场景的落地实践指南。"
-cover: "/images/wechat-sync/🦞给-OpenClaw-装上”眼睛”深度解读-Tavily-实时搜索集成/ff7d8417dd8e27ba.jpg"
+cover: "/images/wechat-sync/🦞给-OpenClaw-装上”眼睛”深度解读-Tavily-实时搜索集成/9ec0c85baf2ae957.webp"
 wechat_link: "https://mp.weixin.qq.com/s/N4qjAnlz_MYGXSd05k-48A"
 wechat_aid: "2247483844_1"
 ---
 > 原公众号链接：[🦞给 OpenClaw 装上”眼睛”：深度解读 Tavily 实时搜索集成](https://mp.weixin.qq.com/s/N4qjAnlz_MYGXSd05k-48A)
 
 
-![封面](/images/wechat-sync/🦞给-OpenClaw-装上”眼睛”深度解读-Tavily-实时搜索集成/ff7d8417dd8e27ba.jpg)
+![封面](/images/wechat-sync/🦞给-OpenClaw-装上”眼睛”深度解读-Tavily-实时搜索集成/9ec0c85baf2ae957.webp)
 
 内容摘要
 

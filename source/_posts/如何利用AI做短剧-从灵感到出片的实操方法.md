@@ -4,12 +4,12 @@ date: 2026-04-18 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "用一套可复用的AI工作流，把短剧制作拆成选题、人物、剧本、分镜、拍摄、剪辑和复盘七个环节，既能提效，也更容易稳定产出。"
-cover: "/images/wechat-sync/如何利用AI做短剧-从灵感到出片的实操方法/1f961aec504bc8fb.jpg"
+cover: "/images/wechat-sync/如何利用AI做短剧-从灵感到出片的实操方法/45fe0d5e79fc1d05.webp"
 wechat_link: "https://mp.weixin.qq.com/s/wL1PBTgQ7lbojcM4OJFPIw"
 wechat_aid: "2247484049_1"
 ---
 
-![封面](/images/wechat-sync/如何利用AI做短剧-从灵感到出片的实操方法/1f961aec504bc8fb.jpg)
+![封面](/images/wechat-sync/如何利用AI做短剧-从灵感到出片的实操方法/45fe0d5e79fc1d05.webp)
 
 做短剧这件事，最怕的不是不会拍，而是每次都从零开始：不知道拍什么、脚本写不快、镜头不成体系、剪辑耗时又返工。AI的价值，不是替你“一键做完”，而是把原本零散、靠经验的流程，变成可拆解、可复制、可迭代的生产线。
 

@@ -4,12 +4,12 @@ date: 2026-04-23 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "DeepGEMM 不只是一个 GEMM 库，它把 FP8/FP4/BF16、MoE、MQA、JIT 与新一代 NVIDIA 架构经验收敛到一个更轻、更可读的 CUDA 工程里。"
-cover: "/images/wechat-sync/DeepGEMM-DeepSeek-把大模型核心算子打包成一座-CUDA-训练场/5633f7dc43ba99d7.jpg"
+cover: "/images/wechat-sync/DeepGEMM-DeepSeek-把大模型核心算子打包成一座-CUDA-训练场/3b1c083f6f5e029d.webp"
 wechat_link: "https://mp.weixin.qq.com/s/iihmy8okg9TMKpLdGSowMw"
 wechat_aid: "2247484080_1"
 ---
 
-![封面](/images/wechat-sync/DeepGEMM-DeepSeek-把大模型核心算子打包成一座-CUDA-训练场/5633f7dc43ba99d7.jpg)
+![封面](/images/wechat-sync/DeepGEMM-DeepSeek-把大模型核心算子打包成一座-CUDA-训练场/3b1c083f6f5e029d.webp)
 
 ## 一、为什么这个项目值得看
 

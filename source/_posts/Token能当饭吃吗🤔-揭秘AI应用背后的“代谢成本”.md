@@ -4,14 +4,14 @@ date: 2026-03-21 14:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "当你的AI助手每天“吃掉”数百元Token账单，你还觉得AI是免费午餐吗？本文带你理性拆解Token经济如何重塑行业格局。"
-cover: "/images/wechat-sync/Token能当饭吃吗🤔-揭秘AI应用背后的“代谢成本”/a9d929131ea92285.jpg"
+cover: "/images/wechat-sync/Token能当饭吃吗🤔-揭秘AI应用背后的“代谢成本”/98ffc222c568c5a4.webp"
 wechat_link: "https://mp.weixin.qq.com/s/vWZ-tKu7Yn8yc9Hk-SZ8eQ"
 wechat_aid: "2247483782_1"
 ---
 > 原公众号链接：[Token能当饭吃吗？🤔 揭秘AI应用背后的“代谢成本”](https://mp.weixin.qq.com/s/vWZ-tKu7Yn8yc9Hk-SZ8eQ)
 
 
-![封面](/images/wechat-sync/Token能当饭吃吗🤔-揭秘AI应用背后的“代谢成本”/a9d929131ea92285.jpg)
+![封面](/images/wechat-sync/Token能当饭吃吗🤔-揭秘AI应用背后的“代谢成本”/98ffc222c568c5a4.webp)
 
 内容摘要
 

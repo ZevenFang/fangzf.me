@@ -4,14 +4,14 @@ date: 2026-03-21 18:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为 AI Agent 的混乱记忆和昂贵 Token 成本头疼？开源项目 OpenViking 提供了一套文件系统范式的解决方案，让 Agent 的长期运行更智能、更经济。"
-cover: "/images/wechat-sync/告别上下文碎片化OpenViking-为-AI-Agent-打造的统一记忆数据库/841c4af6b69f5ba4.jpg"
+cover: "/images/wechat-sync/告别上下文碎片化OpenViking-为-AI-Agent-打造的统一记忆数据库/b0b7f67a3193c4c4.webp"
 wechat_link: "https://mp.weixin.qq.com/s/SAmnmT--oy9Z1AsTHsao4A"
 wechat_aid: "2247483791_1"
 ---
 > 原公众号链接：[告别上下文碎片化：OpenViking 为 AI Agent 打造的统一记忆数据库](https://mp.weixin.qq.com/s/SAmnmT--oy9Z1AsTHsao4A)
 
 
-![封面](/images/wechat-sync/告别上下文碎片化OpenViking-为-AI-Agent-打造的统一记忆数据库/841c4af6b69f5ba4.jpg)
+![封面](/images/wechat-sync/告别上下文碎片化OpenViking-为-AI-Agent-打造的统一记忆数据库/b0b7f67a3193c4c4.webp)
 
 内容摘要
 

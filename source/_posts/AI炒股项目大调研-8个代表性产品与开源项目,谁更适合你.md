@@ -4,12 +4,12 @@ date: 2026-04-16 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "调研了 8 个代表性的 AI 炒股项目与产品，按开源研究型和商业产品型两条线进行对比，重点回答：它们分别解决什么问题、适合谁，以及离真实可用还有多远。"
-cover: "/images/wechat-sync/AI炒股项目大调研-8个代表性产品与开源项目,谁更适合你/adfc2047d27a98f5.jpg"
+cover: "/images/wechat-sync/AI炒股项目大调研-8个代表性产品与开源项目,谁更适合你/5a5db7a542f5130c.webp"
 wechat_link: "https://mp.weixin.qq.com/s/l8GTrmPGNn4l5U19a3rYXQ"
 wechat_aid: "2247483981_1"
 ---
 
-![封面](/images/wechat-sync/AI炒股项目大调研-8个代表性产品与开源项目,谁更适合你/adfc2047d27a98f5.jpg)
+![封面](/images/wechat-sync/AI炒股项目大调研-8个代表性产品与开源项目,谁更适合你/5a5db7a542f5130c.webp)
 
 如果把“AI炒股”拆开来看，市场上其实混着三类完全不同的东西：一类是做投研和因子挖掘的量化基础设施，一类是用大模型做信息理解和多智能体决策的研究框架，另一类则是面向普通投资者的 AI 选股、投顾和交易工具。
 

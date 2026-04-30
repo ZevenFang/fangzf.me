@@ -4,12 +4,12 @@ date: 2026-04-24 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "Browser Use 与 Playwright MCP，正在把 AI 从会说变成会做。"
-cover: "/images/wechat-sync/为什么-AI-开始学会-点网页-聊聊-Browser-Use-Playwright-MCP-和下一代-Agent/4bde114ba64c3fbd.jpg"
+cover: "/images/wechat-sync/为什么-AI-开始学会-点网页-聊聊-Browser-Use-Playwright-MCP-和下一代-Agent/9a3ae4342cf4643b.webp"
 wechat_link: "https://mp.weixin.qq.com/s/FT6TbavsxxUerK_kCmX9lQ"
 wechat_aid: "2247484105_1"
 ---
 
-![封面](/images/wechat-sync/为什么-AI-开始学会-点网页-聊聊-Browser-Use-Playwright-MCP-和下一代-Agent/4bde114ba64c3fbd.jpg)
+![封面](/images/wechat-sync/为什么-AI-开始学会-点网页-聊聊-Browser-Use-Playwright-MCP-和下一代-Agent/9a3ae4342cf4643b.webp)
 
 前两年大家对大模型的期待，主要还是“会写、会答、会总结”。但到了这两年，越来越多团队突然开始关心另一件事：怎么让 AI 真正去操作网页。
 

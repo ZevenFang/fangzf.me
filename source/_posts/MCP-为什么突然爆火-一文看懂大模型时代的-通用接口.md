@@ -4,12 +4,12 @@ date: 2026-04-20 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "MCP 是什么，为什么会火，它如何把大模型接到真实工具和系统。"
-cover: "/images/wechat-sync/MCP-为什么突然爆火-一文看懂大模型时代的-通用接口/0c704c2cbfcc1e48.jpg"
+cover: "/images/wechat-sync/MCP-为什么突然爆火-一文看懂大模型时代的-通用接口/1f6a622af09f3c1d.webp"
 wechat_link: "https://mp.weixin.qq.com/s/1LhRCLSwmjvhaAjN9Qa7zw"
 wechat_aid: "2247484051_1"
 ---
 
-![封面](/images/wechat-sync/MCP-为什么突然爆火-一文看懂大模型时代的-通用接口/0c704c2cbfcc1e48.jpg)
+![封面](/images/wechat-sync/MCP-为什么突然爆火-一文看懂大模型时代的-通用接口/1f6a622af09f3c1d.webp)
 
 如果你这几个月一直在看 AI Agent、Claude Code、ChatGPT Connectors、Cursor、VS Code Copilot 或各种“给大模型接工具”的项目，你大概率会反复看到三个字母：MCP。
 

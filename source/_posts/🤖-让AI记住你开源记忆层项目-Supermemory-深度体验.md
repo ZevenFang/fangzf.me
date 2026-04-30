@@ -4,14 +4,14 @@ date: 2026-03-25 14:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为AI应用记不住历史对话而烦恼吗？Supermemory 是一个专为AI应用设计的开源记忆与上下文层，能自动学习、构建用户档案，让AI真正“认识”你。"
-cover: "/images/wechat-sync/🤖-让AI记住你开源记忆层项目-Supermemory-深度体验/50e9b9cc92c1357b.jpg"
+cover: "/images/wechat-sync/🤖-让AI记住你开源记忆层项目-Supermemory-深度体验/6f653ea35b856c6c.webp"
 wechat_link: "https://mp.weixin.qq.com/s/DqvqDHDaIad04zaXmlMOJg"
 wechat_aid: "2247483834_1"
 ---
 > 原公众号链接：[🤖 让AI记住你：开源记忆层项目 Supermemory 深度体验](https://mp.weixin.qq.com/s/DqvqDHDaIad04zaXmlMOJg)
 
 
-![封面](/images/wechat-sync/🤖-让AI记住你开源记忆层项目-Supermemory-深度体验/50e9b9cc92c1357b.jpg)
+![封面](/images/wechat-sync/🤖-让AI记住你开源记忆层项目-Supermemory-深度体验/6f653ea35b856c6c.webp)
 
 内容摘要
 

@@ -4,12 +4,12 @@ date: 2026-04-27 09:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "AI股票助手的真正价值，不是替你喊买卖，而是把财报、公告、新闻和风险点重新组织成一个可追问的研究系统。"
-cover: "/images/wechat-sync/全民投研时代来了-普通人正在-手搓-自己的AI股票分析助手/3cb1ca5de49d6c3c.jpg"
+cover: "/images/wechat-sync/全民投研时代来了-普通人正在-手搓-自己的AI股票分析助手/0ada4ad476701774.webp"
 wechat_link: "https://mp.weixin.qq.com/s/cRuZWGlL93UhowckqNbiwQ"
 wechat_aid: "2247484120_1"
 ---
 
-![封面](/images/wechat-sync/全民投研时代来了-普通人正在-手搓-自己的AI股票分析助手/3cb1ca5de49d6c3c.jpg)
+![封面](/images/wechat-sync/全民投研时代来了-普通人正在-手搓-自己的AI股票分析助手/0ada4ad476701774.webp)
 
 过去，普通人做股票研究，常常卡在第一步：信息太多。
 

@@ -4,14 +4,14 @@ date: 2026-04-25 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "比较 lm-eval、HELM、OpenCompass、LightEval 的定位、优劣势与选型建议。"
-cover: "/images/wechat-sync/调研主流大模型-Harness-工程项目谁更适合你的评测体系/bdb725cb48ec362f.jpg"
+cover: "/images/wechat-sync/调研主流大模型-Harness-工程项目谁更适合你的评测体系/f312114a14c9c860.webp"
 wechat_link: "https://mp.weixin.qq.com/s/hbD8jF0XpeYejupJ0JhC-Q"
 wechat_aid: "2247484106_1"
 ---
 > 原公众号链接：[调研主流大模型 Harness 工程项目：谁更适合你的评测体系？](https://mp.weixin.qq.com/s/hbD8jF0XpeYejupJ0JhC-Q)
 
 
-![封面](/images/wechat-sync/调研主流大模型-Harness-工程项目谁更适合你的评测体系/bdb725cb48ec362f.jpg)
+![封面](/images/wechat-sync/调研主流大模型-Harness-工程项目谁更适合你的评测体系/f312114a14c9c860.webp)
 
 内容摘要
 

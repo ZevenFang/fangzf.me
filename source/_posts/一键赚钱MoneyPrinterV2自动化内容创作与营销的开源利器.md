@@ -4,14 +4,14 @@ date: 2026-03-23 14:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为内容创作和社交媒体运营发愁？FujiwaraChoki的MoneyPrinterV2开源项目，通过Python脚本自动化执行YouTube Shorts生成、Twitter发布等任务，为技术爱好者和创业者提供了一套模块化的效率工具。"
-cover: "/images/wechat-sync/一键赚钱MoneyPrinterV2自动化内容创作与营销的开源利器/fab9722ca050c8e7.jpg"
+cover: "/images/wechat-sync/一键赚钱MoneyPrinterV2自动化内容创作与营销的开源利器/cde3caefb03f299f.webp"
 wechat_link: "https://mp.weixin.qq.com/s/zolXQj0U6hGdHeX-TJ8OKQ"
 wechat_aid: "2247483810_1"
 ---
 > 原公众号链接：[一键赚钱？MoneyPrinterV2：自动化内容创作与营销的开源利器](https://mp.weixin.qq.com/s/zolXQj0U6hGdHeX-TJ8OKQ)
 
 
-![封面](/images/wechat-sync/一键赚钱MoneyPrinterV2自动化内容创作与营销的开源利器/fab9722ca050c8e7.jpg)
+![封面](/images/wechat-sync/一键赚钱MoneyPrinterV2自动化内容创作与营销的开源利器/cde3caefb03f299f.webp)
 
 内容摘要
 

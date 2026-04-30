@@ -4,14 +4,14 @@ date: 2026-04-02 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为AI只能简单对话而烦恼？字节跳动开源DeerFlow 2.0，一个能拆解、执行、记忆复杂任务的全栈AI智能体框架，开发者与AI应用构建者的新生产力利器。"
-cover: "/images/wechat-sync/DeerFlow-2.0字节开源「超级智能体」框架,让AI从聊天助手变身全能员工/cff8d0e342065ea3.jpg"
+cover: "/images/wechat-sync/DeerFlow-2.0字节开源「超级智能体」框架,让AI从聊天助手变身全能员工/1b5003d4c2b1427c.webp"
 wechat_link: "https://mp.weixin.qq.com/s/UDRU4j1f8SAjekO0PBsRhg"
 wechat_aid: "2247483870_1"
 ---
 > 原公众号链接：[DeerFlow 2.0：字节开源「超级智能体」框架，让AI从聊天助手变身全能员工](https://mp.weixin.qq.com/s/UDRU4j1f8SAjekO0PBsRhg)
 
 
-![封面](/images/wechat-sync/DeerFlow-2.0字节开源「超级智能体」框架,让AI从聊天助手变身全能员工/cff8d0e342065ea3.jpg)
+![封面](/images/wechat-sync/DeerFlow-2.0字节开源「超级智能体」框架,让AI从聊天助手变身全能员工/1b5003d4c2b1427c.webp)
 
 内容摘要
 

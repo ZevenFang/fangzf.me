@@ -4,14 +4,14 @@ date: 2026-03-27 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "还在为不同 AI 模型的 API 接口各异而头疼？开源项目 LiteLLM 提供了一个标准化的 OpenAI 兼容接口，让你用同一套代码轻松调用 GPT、Claude、本地模型等众多 LLM，极大提升开发效率。"
-cover: "/images/wechat-sync/一键集成各大-AI-模型,LiteLLM-让开发者告别切换烦恼/e9da97065e91987b.jpg"
+cover: "/images/wechat-sync/一键集成各大-AI-模型,LiteLLM-让开发者告别切换烦恼/540a9f207dd7da5f.webp"
 wechat_link: "https://mp.weixin.qq.com/s/5l-7SWSkv3nTJD191VGkWQ"
 wechat_aid: "2247483855_2"
 ---
 > 原公众号链接：[一键集成各大 AI 模型，LiteLLM 让开发者告别切换烦恼](https://mp.weixin.qq.com/s/5l-7SWSkv3nTJD191VGkWQ)
 
 
-![封面](/images/wechat-sync/一键集成各大-AI-模型,LiteLLM-让开发者告别切换烦恼/e9da97065e91987b.jpg)
+![封面](/images/wechat-sync/一键集成各大-AI-模型,LiteLLM-让开发者告别切换烦恼/540a9f207dd7da5f.webp)
 
 内容摘要
 

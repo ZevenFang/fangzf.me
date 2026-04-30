@@ -4,12 +4,12 @@ date: 2026-04-22 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "Skill 解决怎么做，MCP 解决怎么连。两者不是对立，而是上下层关系。"
-cover: "/images/wechat-sync/大模型-Skill-和-MCP-到底有什么区别-一文讲清两者关系与分工/87e69e45cbced993.jpg"
+cover: "/images/wechat-sync/大模型-Skill-和-MCP-到底有什么区别-一文讲清两者关系与分工/a0beff7ae327d6ef.webp"
 wechat_link: "https://mp.weixin.qq.com/s/OM6vI1G17Uq4EeGPxgVKfw"
 wechat_aid: "2247484067_1"
 ---
 
-![封面](/images/wechat-sync/大模型-Skill-和-MCP-到底有什么区别-一文讲清两者关系与分工/87e69e45cbced993.jpg)
+![封面](/images/wechat-sync/大模型-Skill-和-MCP-到底有什么区别-一文讲清两者关系与分工/a0beff7ae327d6ef.webp)
 
 这几年 AI 领域有两个词越来越常同时出现：Skill 和 MCP。
 

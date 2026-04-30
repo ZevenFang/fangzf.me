@@ -4,14 +4,14 @@ date: 2026-03-18 20:03:01
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "本文为开发者提供一份详细的 Superpowers Skills 安装教程，涵盖环境准备、步骤拆解、常见问题排查及后续实践建议，助你快速搭建高效技能开发环境。"
-cover: "/images/wechat-sync/从零到一Superpowers-Skills-安装指南与开发环境配置/e30dec0455ebdaa7.jpg"
+cover: "/images/wechat-sync/从零到一Superpowers-Skills-安装指南与开发环境配置/13d9665ff0942c6a.webp"
 wechat_link: "https://mp.weixin.qq.com/s/5HV3C8hLgkFt3UvRlIRYlw"
 wechat_aid: "2247483725_1"
 ---
 > 原公众号链接：[从零到一：Superpowers Skills 安装指南与开发环境配置](https://mp.weixin.qq.com/s/5HV3C8hLgkFt3UvRlIRYlw)
 
 
-![封面](/images/wechat-sync/从零到一Superpowers-Skills-安装指南与开发环境配置/e30dec0455ebdaa7.jpg)
+![封面](/images/wechat-sync/从零到一Superpowers-Skills-安装指南与开发环境配置/13d9665ff0942c6a.webp)
 
 ## 🛠️ 背景与目标
 

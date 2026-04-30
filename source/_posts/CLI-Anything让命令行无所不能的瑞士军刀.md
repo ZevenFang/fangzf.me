@@ -4,14 +4,14 @@ date: 2026-04-04 10:00:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "厌倦了在不同工具间切换？CLI-Anything 是一个开源命令行工具集，旨在通过统一的 CLI 接口，无缝集成并自动化日常开发、运维和数据处理任务。无论是开发者、运维工程师还是数据科学家，都能用它提升效率。"
-cover: "/images/wechat-sync/CLI-Anything让命令行无所不能的瑞士军刀/53b93a5e51a56c64.jpg"
+cover: "/images/wechat-sync/CLI-Anything让命令行无所不能的瑞士军刀/7afe9d2ad41e950f.webp"
 wechat_link: "https://mp.weixin.qq.com/s/W5Q40RBljwM-y2iyLoaD1A"
 wechat_aid: "2247483885_1"
 ---
 > 原公众号链接：[CLI-Anything：让命令行无所不能的瑞士军刀](https://mp.weixin.qq.com/s/W5Q40RBljwM-y2iyLoaD1A)
 
 
-![封面](/images/wechat-sync/CLI-Anything让命令行无所不能的瑞士军刀/53b93a5e51a56c64.jpg)
+![封面](/images/wechat-sync/CLI-Anything让命令行无所不能的瑞士军刀/7afe9d2ad41e950f.webp)
 
 内容摘要
 

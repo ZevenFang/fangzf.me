@@ -4,14 +4,14 @@ date: 2026-04-14 18:25:26
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "一篇带你快速安装并上手 Hermes Agent 的实用教程。"
-cover: "/images/wechat-sync/Hermes-Agent-上手指南5-分钟安装一个会长期进化的-AI-Agent/908ef20bb75e24ae.jpg"
+cover: "/images/wechat-sync/Hermes-Agent-上手指南5-分钟安装一个会长期进化的-AI-Agent/6ba68c125fe03a78.webp"
 wechat_link: "https://mp.weixin.qq.com/s/soIh2PA6q68GUhdsvNBdnw"
 wechat_aid: "2247483929_1"
 ---
 > 原公众号链接：[Hermes Agent 上手指南：5 分钟安装一个会长期进化的 AI Agent](https://mp.weixin.qq.com/s/soIh2PA6q68GUhdsvNBdnw)
 
 
-![封面](/images/wechat-sync/Hermes-Agent-上手指南5-分钟安装一个会长期进化的-AI-Agent/908ef20bb75e24ae.jpg)
+![封面](/images/wechat-sync/Hermes-Agent-上手指南5-分钟安装一个会长期进化的-AI-Agent/6ba68c125fe03a78.webp)
 
 内容摘要
 

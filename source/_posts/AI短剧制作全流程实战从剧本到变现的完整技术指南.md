@@ -4,14 +4,14 @@ date: 2026-03-19 10:33:48
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "本文为零基础开发者与内容创作者提供一份详细的AI短剧制作教程，涵盖剧本生成、分镜设计、AI视频合成、剪辑发布等九个核心步骤，并附工具推荐与常见避坑指南，助你高效踏入AI内容创作赛道。"
-cover: "/images/wechat-sync/AI短剧制作全流程实战从剧本到变现的完整技术指南/6cc8721e37382007.jpg"
+cover: "/images/wechat-sync/AI短剧制作全流程实战从剧本到变现的完整技术指南/ef903ae2572ae6b0.webp"
 wechat_link: "https://mp.weixin.qq.com/s/CIVNRcOJLhSO0cXFwihGWw"
 wechat_aid: "2247483745_1"
 ---
 > 原公众号链接：[AI短剧制作全流程实战：从剧本到变现的完整技术指南](https://mp.weixin.qq.com/s/CIVNRcOJLhSO0cXFwihGWw)
 
 
-![封面](/images/wechat-sync/AI短剧制作全流程实战从剧本到变现的完整技术指南/6cc8721e37382007.jpg)
+![封面](/images/wechat-sync/AI短剧制作全流程实战从剧本到变现的完整技术指南/ef903ae2572ae6b0.webp)
 
 本文为零基础开发者与内容创作者提供一份详细的AI短剧制作教程，涵盖剧本生成、分镜设计、AI视频合成、剪辑发布等九个核心步骤，并附工具推荐与常见避坑指南，助你高效踏入AI内容创作赛道。
 

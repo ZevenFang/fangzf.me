@@ -4,14 +4,14 @@ date: 2026-03-20 16:48:00
 categories: [AI, 公众号]
 tags: [AI, 公众号同步]
 description: "TrendRadar 是一个开源智能新闻聚合与趋势分析工具，它能从 35+ 个平台自动采集数据，通过 NLP 与时间序列分析帮你发现真正重要的趋势信号。本文将手把手教你如何部署和使用它。"
-cover: "/images/wechat-sync/TrendRadar用-AI-追踪全网热点,告别信息过载/2d4067236f55f4c3.jpg"
+cover: "/images/wechat-sync/TrendRadar用-AI-追踪全网热点,告别信息过载/dbf00171bff26bf7.webp"
 wechat_link: "https://mp.weixin.qq.com/s/0coy3Yp9mpREZjjPiXpVJg"
 wechat_aid: "2247483771_2"
 ---
 > 原公众号链接：[TrendRadar：用 AI 追踪全网热点，告别信息过载](https://mp.weixin.qq.com/s/0coy3Yp9mpREZjjPiXpVJg)
 
 
-![封面](/images/wechat-sync/TrendRadar用-AI-追踪全网热点,告别信息过载/2d4067236f55f4c3.jpg)
+![封面](/images/wechat-sync/TrendRadar用-AI-追踪全网热点,告别信息过载/dbf00171bff26bf7.webp)
 
 TrendRadar 是一个开源智能新闻聚合与趋势分析工具，它能从 35+ 个平台自动采集数据，通过 NLP 与时间序列分析帮你发现真正重要的趋势信号。本文将手把手教你如何部署和使用它。
 
