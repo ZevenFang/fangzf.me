@@ -10,9 +10,6 @@ wechat_aid: "2247483782_1"
 ---
 > 原公众号链接：[Token能当饭吃吗？🤔 揭秘AI应用背后的“代谢成本”](https://mp.weixin.qq.com/s/vWZ-tKu7Yn8yc9Hk-SZ8eQ)
 
-
-![封面](/images/wechat-sync/Token能当饭吃吗🤔-揭秘AI应用背后的“代谢成本”/98ffc222c568c5a4.webp)
-
 内容摘要
 
 当你的AI助手每天“吃掉”数百元Token账单，你还觉得AI是免费午餐吗？本文带你理性拆解Token经济如何重塑行业格局。

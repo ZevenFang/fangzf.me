@@ -10,9 +10,6 @@ wechat_aid: "2247483829_1"
 ---
 > 原公众号链接：[用AI智能体炒股？这个中文开源框架帮你打造专属交易团队](https://mp.weixin.qq.com/s/3kWVn2mmaBj_rls6nFDzSg)
 
-
-![封面](/images/wechat-sync/用AI智能体炒股这个中文开源框架帮你打造专属交易团队/c2db52c227a85d5b.webp)
-
 内容摘要
 
 TradingAgents-CN 是一个专为中国市场优化的多智能体金融交易决策框架。它模拟真实交易公司的专业分工，通过多个AI智能体协作分析市场，为投资者提供智能化决策支持。

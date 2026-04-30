@@ -10,9 +10,6 @@ wechat_aid: "2247483904_1"
 ---
 > 原公众号链接：[微软开源 Qlib：用 AI 重塑量化投资研究全流程](https://mp.weixin.qq.com/s/yqXbtxM9fDTd_3j91oYlmQ)
 
-
-![封面](/images/wechat-sync/微软开源-Qlib用-AI-重塑量化投资研究全流程/f7b09fa331822ea8.webp)
-
 内容摘要
 
 还在为量化研究中的数据、模型和部署难题头疼？微软开源的 AI 量化投资平台 Qlib，提供了一个从想法到生产的完整解决方案。

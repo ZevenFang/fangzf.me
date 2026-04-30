@@ -11,8 +11,6 @@ wechat_aid: "2247483771_1"
 > 原公众号链接：[腾讯QClaw（龙虾）开放全量公测：AI Agent走向大众，用微信一句话控制电脑 🦞](https://mp.weixin.qq.com/s/5aW_Ae36bTWYs2T81m8XDg)
 
 
-![封面](/images/wechat-sync/腾讯QClaw(龙虾)开放全量公测AI-Agent走向大众,用微信一句话控制电脑-🦞/715f15e0384db27c.webp)
-
 内容摘要
 
 腾讯基于OpenClaw封装的AI Agent工具QClaw（龙虾）于2026年3月20日正式开启全量公测，无需邀请码即可使用。本文将从背景、核心变化与影响出发，分析这一事件对普通用户、办公场景及AI Agent生态的意义。

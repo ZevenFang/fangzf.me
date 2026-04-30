@@ -10,9 +10,6 @@ wechat_aid: "2247483875_1"
 ---
 > 原公众号链接：[掌握Harness Engineering：构建稳定高效的AI智能体系统](https://mp.weixin.qq.com/s/9WUk2AhWxTkcbn5b3sdL3Q)
 
-
-![封面](/images/wechat-sync/掌握Harness-Engineering构建稳定高效的AI智能体系统/d17853ff4280d41b.webp)
-
 内容摘要
 
 本文旨在为技术开发者提供一份关于Harness Engineering的实践指南。通过清晰的结构化步骤，帮助您构建外部系统来驾驭大语言模型，解决智能体任务执行中的稳定性与自主性问题，从而实现复杂任务的可靠自动化。

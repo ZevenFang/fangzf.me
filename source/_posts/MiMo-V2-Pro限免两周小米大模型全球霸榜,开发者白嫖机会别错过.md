@@ -10,9 +10,6 @@ wechat_aid: "2247483855_1"
 ---
 > 原公众号链接：[MiMo-V2-Pro限免两周！小米大模型全球霸榜，开发者白嫖机会别错过](https://mp.weixin.qq.com/s/CXef3pwtebnA58NAcJMULQ)
 
-
-![封面](/images/wechat-sync/MiMo-V2-Pro限免两周小米大模型全球霸榜,开发者白嫖机会别错过/f0e44ddbb2010b63.webp)
-
 内容摘要
 
 小米旗舰大模型MiMo-V2-Pro发布即登顶全球调用榜，现宣布限免活动延长至两周。这不仅是技术福利，更是AI智能体生态的关键信号。

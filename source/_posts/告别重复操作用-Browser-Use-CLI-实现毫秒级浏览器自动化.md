@@ -10,9 +10,6 @@ wechat_aid: "2247483818_1"
 ---
 > 原公众号链接：[告别重复操作：用 Browser Use CLI 实现毫秒级浏览器自动化](https://mp.weixin.qq.com/s/rrBcxGR7prjXM9kU3Fdjrg)
 
-
-![封面](/images/wechat-sync/告别重复操作用-Browser-Use-CLI-实现毫秒级浏览器自动化/eeb83b5287692660.webp)
-
 内容摘要
 
 你是否厌倦了手动执行重复的网页操作？Browser Use CLI 是一个专为高效、持久的浏览器自动化设计的命令行工具。本文将带你从零开始，了解其核心架构，掌握安装、配置与基础自动化流程，助你显著提升工作效率。

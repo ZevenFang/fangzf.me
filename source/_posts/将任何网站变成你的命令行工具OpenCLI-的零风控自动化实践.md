@@ -10,9 +10,6 @@ wechat_aid: "2247483905_1"
 ---
 > 原公众号链接：[将任何网站变成你的命令行工具：OpenCLI 的零风控自动化实践](https://mp.weixin.qq.com/s/oOwhFf5Kwhg4MwrmV58Mgw)
 
-
-![封面](/images/wechat-sync/将任何网站变成你的命令行工具OpenCLI-的零风控自动化实践/a0944c9d411c7aa3.webp)
-
 内容摘要
 
 还在为网站数据抓取头疼？OpenCLI 让你用 CLI 直接操作 B 站、知乎、小红书等 30+ 平台，无需存储凭证，复用浏览器登录态，安全又高效。

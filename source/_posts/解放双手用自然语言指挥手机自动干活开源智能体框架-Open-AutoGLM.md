@@ -10,9 +10,6 @@ wechat_aid: "2247483781_1"
 ---
 > 原公众号链接：[解放双手！用自然语言指挥手机自动干活：开源智能体框架 Open-AutoGLM](https://mp.weixin.qq.com/s/EaPFWu5tTwHxe8uHfL9y8g)
 
-
-![封面](/images/wechat-sync/解放双手用自然语言指挥手机自动干活开源智能体框架-Open-AutoGLM/4ec50d20b54fd25d.webp)
-
 内容摘要
 
 还在手动点点点？这个开源项目能让你的手机“听懂人话”，自动完成微信发消息、刷短视频等重复操作，堪称懒人福音！

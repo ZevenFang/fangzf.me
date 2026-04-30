@@ -10,9 +10,6 @@ wechat_aid: "2247483839_1"
 ---
 > 原公众号链接：[解放双手！AI 全自动生成短视频神器 MoneyPrinterTurbo](https://mp.weixin.qq.com/s/KeA3AI_kftvaeELzG1BtaQ)
 
-
-![封面](/images/wechat-sync/解放双手AI-全自动生成短视频神器-MoneyPrinterTurbo/ea925a81b12f0cc4.webp)
-
 内容摘要
 
 还在为制作短视频文案、找素材、剪辑而发愁？这款开源工具能让你输入一个主题，就自动生成一条完整的视频。

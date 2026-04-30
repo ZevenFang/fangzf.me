@@ -10,9 +10,6 @@ wechat_aid: "2247483895_1"
 ---
 > 原公众号链接：[🤖 让 AI 掌控你的浏览器：bb-browser 将 Chrome 变成 AI 代理的操作台](https://mp.weixin.qq.com/s/R40S6siwWz4F5-65YIME-A)
 
-
-![封面](/images/wechat-sync/🤖-让-AI-掌控你的浏览器bb-browser-将-Chrome-变成-AI-代理的操作台/d42cf80e4bed8e0e.webp)
-
 内容摘要
 
 还在为 AI 无法操作登录状态的网页而烦恼？bb-browser 提供了一个 CLI 工具和 MCP 服务器，让你的 AI 助手能直接控制 Chrome，无缝访问需要登录的网站。

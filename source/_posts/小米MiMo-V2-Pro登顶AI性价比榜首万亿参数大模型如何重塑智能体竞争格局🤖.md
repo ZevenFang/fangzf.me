@@ -10,9 +10,6 @@ wechat_aid: "2247483736_1"
 ---
 > 原公众号链接：[小米MiMo-V2-Pro登顶AI性价比榜首：万亿参数大模型如何重塑智能体竞争格局？🤖](https://mp.weixin.qq.com/s/akGtMsa9XUFbzYZ8EdqaOw)
 
-
-![封面](/images/wechat-sync/小米MiMo-V2-Pro登顶AI性价比榜首万亿参数大模型如何重塑智能体竞争格局🤖/1ef9616a4189b566.webp)
-
 小米最新发布的万亿参数大语言模型MiMo-V2-Pro在OpenRouter上迅速登顶使用量榜首，凭借接近顶级模型的性能与仅五分之一的API定价，掀起了AI智能体市场的性价比革命。本文将从技术突破、市场影响与未来趋势三个维
 
 ![](/images/wechat-sync/小米MiMo-V2-Pro登顶AI性价比榜首万亿参数大模型如何重塑智能体竞争格局🤖/589d02575ff88826.webp)

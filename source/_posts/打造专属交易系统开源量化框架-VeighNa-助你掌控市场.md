@@ -10,9 +10,6 @@ wechat_aid: "2247483805_1"
 ---
 > 原公众号链接：[打造专属交易系统！开源量化框架 VeighNa 助你掌控市场](https://mp.weixin.qq.com/s/ZjP-LuOI2ZS8YqOMRlnm8w)
 
-
-![封面](/images/wechat-sync/打造专属交易系统开源量化框架-VeighNa-助你掌控市场/ed5d6655f35b2033.webp)
-
 内容摘要
 
 想用 Python 搭建专业的量化交易系统，却苦于接口繁杂、开发困难？VeighNa（原 vnpy）这个开源框架，或许正是你需要的解决方案。

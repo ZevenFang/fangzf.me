@@ -10,9 +10,6 @@ wechat_aid: "2247483771_3"
 ---
 > 原公众号链接：[用自然语言写Python代码：AIPyApp快速上手指南](https://mp.weixin.qq.com/s/P_N0WpKhMhsGlcuZygpLHw)
 
-
-![封面](/images/wechat-sync/用自然语言写Python代码AIPyApp快速上手指南/c56d4de646686990.webp)
-
 内容摘要
 
 厌倦了在多个AI工具和代码编辑器间切换？AIPyApp将交互式Python环境与大语言模型（LLM）深度结合，让你通过自然语言直接生成并执行Python命令。本文详细介绍其核心概念、安装步骤、基本用法及实践技巧。
