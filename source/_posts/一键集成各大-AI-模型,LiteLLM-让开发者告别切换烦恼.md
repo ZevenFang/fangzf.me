@@ -10,9 +10,7 @@ wechat_aid: "2247483855_2"
 ---
 > 原公众号链接：[一键集成各大 AI 模型，LiteLLM 让开发者告别切换烦恼](https://mp.weixin.qq.com/s/5l-7SWSkv3nTJD191VGkWQ)
 
-内容摘要
-
-还在为不同 AI 模型的 API 接口各异而头疼？开源项目 LiteLLM 提供了一个标准化的 OpenAI 兼容接口，让你用同一套代码轻松调用 GPT、Claude、本地模型等众多 LLM，极大提升开发效率。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>还在为不同 AI 模型的 API 接口各异而头疼？开源项目 LiteLLM 提供了一个标准化的 OpenAI 兼容接口，让你用同一套代码轻松调用 GPT、Claude、本地模型等众多 LLM，极大提升开发效率。</p></div>
 
 如果你是一名开发者，正为项目需要对接多个不同的大型语言模型（LLM）提供商而烦恼——每个提供商的 API 接口、参数格式都不尽相同，调试和维护成本高昂。那么，BerriAI 开源的 LiteLLM 正是为你量身打造的解决方案。
 

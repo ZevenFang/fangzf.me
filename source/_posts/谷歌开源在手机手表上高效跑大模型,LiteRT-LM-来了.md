@@ -10,9 +10,7 @@ wechat_aid: "2247483910_1"
 ---
 > 原公众号链接：[谷歌开源！在手机手表上高效跑大模型，LiteRT-LM 来了](https://mp.weixin.qq.com/s/nHfB1Lj7bxVtvFAc--u8ww)
 
-内容摘要
-
-想在手机、手表等边缘设备上本地部署大语言模型？谷歌开源的高性能推理框架 LiteRT-LM，为你解决资源受限下的高效 AI 推理难题。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>想在手机、手表等边缘设备上本地部署大语言模型？谷歌开源的高性能推理框架 LiteRT-LM，为你解决资源受限下的高效 AI 推理难题。</p></div>
 
 你是否想过在手机、智能手表甚至嵌入式设备上，也能流畅运行像 ChatGPT 这样的大语言模型？如今，谷歌 AI Edge 团队开源的 LiteRT-LM，正让这个想法成为现实。
 

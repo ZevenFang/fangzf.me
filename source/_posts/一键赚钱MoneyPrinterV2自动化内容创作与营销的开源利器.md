@@ -10,9 +10,7 @@ wechat_aid: "2247483810_1"
 ---
 > 原公众号链接：[一键赚钱？MoneyPrinterV2：自动化内容创作与营销的开源利器](https://mp.weixin.qq.com/s/zolXQj0U6hGdHeX-TJ8OKQ)
 
-内容摘要
-
-还在为内容创作和社交媒体运营发愁？FujiwaraChoki的MoneyPrinterV2开源项目，通过Python脚本自动化执行YouTube Shorts生成、Twitter发布等任务，为技术爱好者和创业者提供了一套模块化的效率工具。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>还在为内容创作和社交媒体运营发愁？FujiwaraChoki的MoneyPrinterV2开源项目，通过Python脚本自动化执行YouTube Shorts生成、Twitter发布等任务，为技术爱好者和创业者提供了一套模块化的效率工具。</p></div>
 
 ## 🌟 导语：解决什么？适合谁？
 

@@ -10,9 +10,7 @@ wechat_aid: "2247483870_1"
 ---
 > 原公众号链接：[DeerFlow 2.0：字节开源「超级智能体」框架，让AI从聊天助手变身全能员工](https://mp.weixin.qq.com/s/UDRU4j1f8SAjekO0PBsRhg)
 
-内容摘要
-
-还在为AI只能简单对话而烦恼？字节跳动开源DeerFlow 2.0，一个能拆解、执行、记忆复杂任务的全栈AI智能体框架，开发者与AI应用构建者的新生产力利器。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>还在为AI只能简单对话而烦恼？字节跳动开源DeerFlow 2.0，一个能拆解、执行、记忆复杂任务的全栈AI智能体框架，开发者与AI应用构建者的新生产力利器。</p></div>
 
 你是否曾幻想过，AI不仅能回答你的问题，还能像一位真正的员工一样，独立完成数据分析、代码调试、报告生成等一系列复杂任务？如今，这个幻想正通过DeerFlow 2.0变为现实。
 

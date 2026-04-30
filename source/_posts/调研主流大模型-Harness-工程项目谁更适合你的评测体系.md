@@ -10,9 +10,7 @@ wechat_aid: "2247484106_1"
 ---
 > 原公众号链接：[调研主流大模型 Harness 工程项目：谁更适合你的评测体系？](https://mp.weixin.qq.com/s/hbD8jF0XpeYejupJ0JhC-Q)
 
-内容摘要
-
-比较 lm-eval、HELM、OpenCompass、LightEval 的定位、优劣势与选型建议。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>比较 lm-eval、HELM、OpenCompass、LightEval 的定位、优劣势与选型建议。</p></div>
 
 ![](/images/wechat-sync/调研主流大模型-Harness-工程项目谁更适合你的评测体系/3006ff8bfb1e1353.jpg)
 

@@ -10,9 +10,7 @@ wechat_aid: "2247483844_1"
 ---
 > 原公众号链接：[🦞给 OpenClaw 装上”眼睛”：深度解读 Tavily 实时搜索集成](https://mp.weixin.qq.com/s/N4qjAnlz_MYGXSd05k-48A)
 
-内容摘要
-
-本文深度解读如何为 OpenClaw AI 智能体集成 Tavily 实时搜索技能，详解其如何突破信息盲区、优化搜索质量，并提供金融投研、市场分析等场景的落地实践指南。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>本文深度解读如何为 OpenClaw AI 智能体集成 Tavily 实时搜索技能，详解其如何突破信息盲区、优化搜索质量，并提供金融投研、市场分析等场景的落地实践指南。</p></div>
 
 在信息爆炸的时代，AI 智能体的核心能力之一是高效、精准地获取和处理实时信息。OpenClaw 作为一款功能强大的 AI 智能体平台，其能力边界正通过集成各种“技能”（Skills）不断拓展。本次解读的文档，核心便是介绍如何为 OpenClaw 装上名为“Tavily 实时搜索”的“眼睛”，旨在解决智能体在金融投研、市场分析等场景中面临的信息滞后、来源单一、噪音过多等核心痛点。
 

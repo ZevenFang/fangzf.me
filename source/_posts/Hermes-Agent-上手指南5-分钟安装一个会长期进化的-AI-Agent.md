@@ -13,9 +13,7 @@ wechat_aid: "2247483929_1"
 
 ![封面](/images/wechat-sync/Hermes-Agent-上手指南5-分钟安装一个会长期进化的-AI-Agent/6ba68c125fe03a78.webp)
 
-内容摘要
-
-一篇带你快速安装并上手 Hermes Agent 的实用教程。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>一篇带你快速安装并上手 Hermes Agent 的实用教程。</p></div>
 
 这两年，大家已经不满足于“问答型 AI”了。
 

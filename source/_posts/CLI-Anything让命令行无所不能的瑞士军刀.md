@@ -10,9 +10,7 @@ wechat_aid: "2247483885_1"
 ---
 > 原公众号链接：[CLI-Anything：让命令行无所不能的瑞士军刀](https://mp.weixin.qq.com/s/W5Q40RBljwM-y2iyLoaD1A)
 
-内容摘要
-
-厌倦了在不同工具间切换？CLI-Anything 是一个开源命令行工具集，旨在通过统一的 CLI 接口，无缝集成并自动化日常开发、运维和数据处理任务。无论是开发者、运维工程师还是数据科学家，都能用它提升效率。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>厌倦了在不同工具间切换？CLI-Anything 是一个开源命令行工具集，旨在通过统一的 CLI 接口，无缝集成并自动化日常开发、运维和数据处理任务。无论是开发者、运维工程师还是数据科学家，都能用它提升效率。</p></div>
 
 🌟 导语：为什么需要 CLI-Anything？
 

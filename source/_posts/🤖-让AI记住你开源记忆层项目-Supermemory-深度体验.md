@@ -10,9 +10,7 @@ wechat_aid: "2247483834_1"
 ---
 > 原公众号链接：[🤖 让AI记住你：开源记忆层项目 Supermemory 深度体验](https://mp.weixin.qq.com/s/DqvqDHDaIad04zaXmlMOJg)
 
-内容摘要
-
-还在为AI应用记不住历史对话而烦恼吗？Supermemory 是一个专为AI应用设计的开源记忆与上下文层，能自动学习、构建用户档案，让AI真正“认识”你。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>还在为AI应用记不住历史对话而烦恼吗？Supermemory 是一个专为AI应用设计的开源记忆与上下文层，能自动学习、构建用户档案，让AI真正“认识”你。</p></div>
 
 ## 🌟 导语：告别“金鱼脑”AI，迎接有记忆的智能
 

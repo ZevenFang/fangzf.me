@@ -10,9 +10,7 @@ wechat_aid: "2247483915_1"
 ---
 > 原公众号链接：[一键部署你的 AI 服务网关：Aether 开源项目推荐](https://mp.weixin.qq.com/s/38JhUN5bUzvIG5-UQmRlhA)
 
-内容摘要
-
-还在为管理多个 AI 服务 API 密钥而烦恼？Aether 是一个自托管的 AI API 网关，帮你统一接入、智能调度、控制成本。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>还在为管理多个 AI 服务 API 密钥而烦恼？Aether 是一个自托管的 AI API 网关，帮你统一接入、智能调度、控制成本。</p></div>
 
 ## 🌟 导语：AI 服务管理的救星
 

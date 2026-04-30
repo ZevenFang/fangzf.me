@@ -1,6 +1,7 @@
-// Custom summary card for homepage excerpts.
-// Keeps the summary visually distinct from the article body while staying light in NexT Gemini.
-.posts-expand.index .post-body .post-summary {
+// Custom summary cards.
+// Keeps summaries visually distinct from the article body while staying light in NexT Gemini.
+.posts-expand.index .post-body .post-summary,
+.posts-expand .post-body .post-content-summary {
   background: linear-gradient(135deg, rgba(6, 132, 189, .08), rgba(135, 218, 255, .04));
   border: 1px solid rgba(6, 132, 189, .16);
   border-left: 4px solid $blue;
@@ -11,7 +12,12 @@
   padding: 16px 18px;
 }
 
-.posts-expand.index .post-body .post-summary-title {
+.posts-expand .post-body .post-content-summary {
+  margin: 18px 0 28px;
+}
+
+.posts-expand.index .post-body .post-summary-title,
+.posts-expand .post-body .post-content-summary-title {
   align-items: center;
   color: $blue;
   display: flex;
@@ -22,18 +28,21 @@
   margin-bottom: 8px;
 }
 
-.posts-expand.index .post-body .post-summary-title::before {
+.posts-expand.index .post-body .post-summary-title::before,
+.posts-expand .post-body .post-content-summary-title::before {
   background: $blue;
   border-radius: 50%;
   box-shadow: 0 0 0 4px rgba(6, 132, 189, .12);
   content: '';
   display: inline-block;
+  flex: 0 0 auto;
   height: 7px;
   margin-right: 9px;
   width: 7px;
 }
 
-.posts-expand.index .post-body .post-summary p {
+.posts-expand.index .post-body .post-summary p,
+.posts-expand .post-body .post-content-summary p {
   color: var(--text-color);
   font-size: $font-size-medium;
   line-height: 1.9;
@@ -41,25 +50,29 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  .posts-expand.index .post-body .post-summary {
+  .posts-expand.index .post-body .post-summary,
+  .posts-expand .post-body .post-content-summary {
     background: linear-gradient(135deg, rgba(135, 218, 255, .12), rgba(6, 132, 189, .06));
     border-color: rgba(135, 218, 255, .22);
     border-left-color: $blue-bright;
     box-shadow: none;
   }
 
-  .posts-expand.index .post-body .post-summary-title {
+  .posts-expand.index .post-body .post-summary-title,
+  .posts-expand .post-body .post-content-summary-title {
     color: $blue-bright;
   }
 
-  .posts-expand.index .post-body .post-summary-title::before {
+  .posts-expand.index .post-body .post-summary-title::before,
+  .posts-expand .post-body .post-content-summary-title::before {
     background: $blue-bright;
     box-shadow: 0 0 0 4px rgba(135, 218, 255, .16);
   }
 }
 
 +tablet-mobile() {
-  .posts-expand.index .post-body .post-summary {
+  .posts-expand.index .post-body .post-summary,
+  .posts-expand .post-body .post-content-summary {
     border-radius: 8px;
     margin-bottom: 20px;
     padding: 14px 15px;

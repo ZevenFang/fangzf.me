@@ -10,9 +10,7 @@ wechat_aid: "2247483829_1"
 ---
 > 原公众号链接：[用AI智能体炒股？这个中文开源框架帮你打造专属交易团队](https://mp.weixin.qq.com/s/3kWVn2mmaBj_rls6nFDzSg)
 
-内容摘要
-
-TradingAgents-CN 是一个专为中国市场优化的多智能体金融交易决策框架。它模拟真实交易公司的专业分工，通过多个AI智能体协作分析市场，为投资者提供智能化决策支持。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>TradingAgents-CN 是一个专为中国市场优化的多智能体金融交易决策框架。它模拟真实交易公司的专业分工，通过多个AI智能体协作分析市场，为投资者提供智能化决策支持。</p></div>
 
 在瞬息万变的金融市场中，个人投资者往往面临信息过载、分析能力有限和情绪化决策的挑战。有没有一种工具，能像专业交易团队一样，分工明确、理性冷静地帮你分析和决策？hsliuping/TradingAgents-CN 这个开源项目，正是为此而生。
 

@@ -10,9 +10,7 @@ wechat_aid: "2247483875_1"
 ---
 > 原公众号链接：[掌握Harness Engineering：构建稳定高效的AI智能体系统](https://mp.weixin.qq.com/s/9WUk2AhWxTkcbn5b3sdL3Q)
 
-内容摘要
-
-本文旨在为技术开发者提供一份关于Harness Engineering的实践指南。通过清晰的结构化步骤，帮助您构建外部系统来驾驭大语言模型，解决智能体任务执行中的稳定性与自主性问题，从而实现复杂任务的可靠自动化。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>本文旨在为技术开发者提供一份关于Harness Engineering的实践指南。通过清晰的结构化步骤，帮助您构建外部系统来驾驭大语言模型，解决智能体任务执行中的稳定性与自主性问题，从而实现复杂任务的可靠自动化。</p></div>
 
 在AI智能体（Agent）编程领域，一个日益凸显的挑战是：如何让基于大语言模型（LLM）的智能体稳定、自主且高效地完成复杂、多步骤的任务？单纯依赖提示词（Prompt Engineering）或上下文管理（Context Engineering）已显不足，模型固有的幻觉、状态丢失和逻辑跳跃问题常常导致任务失败。Harness Engineering（驾驭工程）正是为了解决这些问题而兴起的核心工程实践。
 

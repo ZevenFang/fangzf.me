@@ -10,9 +10,7 @@ wechat_aid: "2247483782_1"
 ---
 > 原公众号链接：[Token能当饭吃吗？🤔 揭秘AI应用背后的“代谢成本”](https://mp.weixin.qq.com/s/vWZ-tKu7Yn8yc9Hk-SZ8eQ)
 
-内容摘要
-
-当你的AI助手每天“吃掉”数百元Token账单，你还觉得AI是免费午餐吗？本文带你理性拆解Token经济如何重塑行业格局。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>当你的AI助手每天“吃掉”数百元Token账单，你还觉得AI是免费午餐吗？本文带你理性拆解Token经济如何重塑行业格局。</p></div>
 
 近日，一则关于AI智能体OpenClaw的账单在Reddit上引发热议：用户贴出6小时消耗9000万Token、费用高达170美元的极端案例。这并非孤例，随着ChatGPT、Claude等大模型应用普及，用户开始频繁面对按Token计费的账单，“AI代谢成本”成为显性话题。这标志着AI服务从早期“免费试用”阶段，正式步入按量付费的商业化深水区。
 

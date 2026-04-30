@@ -10,9 +10,7 @@ wechat_aid: "2247483800_1"
 ---
 > 原公众号链接：[vStats：为你的服务器打造一个轻量、美观的实时监控看板](https://mp.weixin.qq.com/s/oLCpaolkxd_HGdCV31FK9g)
 
-内容摘要
-
-还在为监控服务器状态而烦恼吗？vStats 是一款极简开源的服务器监控面板，通过 Go 与 WebSocket 实现毫秒级数据刷新。本文将带你从零开始，快速部署属于你的专属服务器监控看板。
+<div class="post-content-summary" aria-label="内容摘要"><div class="post-content-summary-title">内容摘要</div><p>还在为监控服务器状态而烦恼吗？vStats 是一款极简开源的服务器监控面板，通过 Go 与 WebSocket 实现毫秒级数据刷新。本文将带你从零开始，快速部署属于你的专属服务器监控看板。</p></div>
 
 🛠️ 导语：为何选择 vStats？
 
