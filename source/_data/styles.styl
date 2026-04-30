@@ -1,0 +1,67 @@
+// Custom summary card for homepage excerpts.
+// Keeps the summary visually distinct from the article body while staying light in NexT Gemini.
+.posts-expand.index .post-body .post-summary {
+  background: linear-gradient(135deg, rgba(6, 132, 189, .08), rgba(135, 218, 255, .04));
+  border: 1px solid rgba(6, 132, 189, .16);
+  border-left: 4px solid $blue;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, .035);
+  color: var(--text-color);
+  margin: 4px 0 24px;
+  padding: 16px 18px;
+}
+
+.posts-expand.index .post-body .post-summary-title {
+  align-items: center;
+  color: $blue;
+  display: flex;
+  font-size: $font-size-small;
+  font-weight: 700;
+  letter-spacing: .04em;
+  line-height: 1.4;
+  margin-bottom: 8px;
+}
+
+.posts-expand.index .post-body .post-summary-title::before {
+  background: $blue;
+  border-radius: 50%;
+  box-shadow: 0 0 0 4px rgba(6, 132, 189, .12);
+  content: '';
+  display: inline-block;
+  height: 7px;
+  margin-right: 9px;
+  width: 7px;
+}
+
+.posts-expand.index .post-body .post-summary p {
+  color: var(--text-color);
+  font-size: $font-size-medium;
+  line-height: 1.9;
+  margin: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .posts-expand.index .post-body .post-summary {
+    background: linear-gradient(135deg, rgba(135, 218, 255, .12), rgba(6, 132, 189, .06));
+    border-color: rgba(135, 218, 255, .22);
+    border-left-color: $blue-bright;
+    box-shadow: none;
+  }
+
+  .posts-expand.index .post-body .post-summary-title {
+    color: $blue-bright;
+  }
+
+  .posts-expand.index .post-body .post-summary-title::before {
+    background: $blue-bright;
+    box-shadow: 0 0 0 4px rgba(135, 218, 255, .16);
+  }
+}
+
++tablet-mobile() {
+  .posts-expand.index .post-body .post-summary {
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 14px 15px;
+  }
+}

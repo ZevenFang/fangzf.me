@@ -178,7 +178,10 @@
 
       {%- if is_index %}
         {%- if post.description and theme.excerpt_description %}
-          <p>{{ post.description }}</p>
+          <section class="post-summary" aria-label="内容摘要">
+            <div class="post-summary-title">内容摘要</div>
+            <p>{{ post.description }}</p>
+          </section>
           <!--noindex-->
           {%- if theme.read_more_btn %}
             <div class="post-button">
