@@ -11,7 +11,7 @@ tags:
 - AI 自动化
 ---
 
-![文章封面](/images/wechat-sync/ui-tars-desktop-gui-agent/cover-ui-tars-desktop.png)
+![文章封面](/images/wechat-sync/ui-tars-desktop-gui-agent/cover-ui-tars-desktop-gpt-image-2.jpg)
 
 > ByteDance 开源的 UI-TARS Desktop 把视觉语言模型、截图识别和鼠标键盘控制组合成原生桌面 Agent。它不只是“会聊天”的助手，而是开始接管浏览器、VS Code 和本地软件里的真实操作。本文用一篇文章看懂它的定位、能力边界和适合上手的场景。
 
